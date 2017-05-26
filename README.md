@@ -1,6 +1,6 @@
-# tesina_lic_tecnologia_educativa
+﻿# tesina_lic_tecnologia_educativa
 
-Esto es un borrador de mi tesis de licenciatura en tecnologia educativa, para la universidad tecnologica nacional (UTN).
+Esto es un borrador de mi tesis de licenciatura en tecnología educativa, para la universidad tecnológica nacional (UTN).
 
 
-ES UN BORRADOR, todavia no tiene correciones de estilo, ortogreafia ni nada. 
+ES UN BORRADOR, todavía no tiene correcciones de estilo, ortográfica ni nada. 

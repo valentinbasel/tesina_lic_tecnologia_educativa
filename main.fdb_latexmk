@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex main"] 1495826090 "main.aux" "main.bbl" "main" 1495826091
+["bibtex main"] 1495828790 "main.aux" "main.bbl" "main" 1495828790
   "/usr/share/texlive/texmf-dist/bibtex/bst/apacite/apacite.bst" 1374530685 141073 9d7b79dbf9d91133318126032cff8c27 ""
   "biblioteca/biblioteca_tesis.bib" 1495220644 40058 c639496c9b0f729ea97c92fc534f5391 ""
-  "main.aux" 1495826091 7400 56133566566b73226cbc2c0888374e35 ""
+  "main.aux" 1495828790 7572 7ebe8eb17c8a30916a4a17c3ee58c41b ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1495826090 "main.tex" "main.pdf" "main" 1495826091
+["pdflatex"] 1495828790 "main.tex" "main.pdf" "main" 1495828790
   "/home/vbasel/.cache/texlive/texmf-var/web2c/pdftex/pdflatex.fmt" 1483652513 719142 b6c0a53f41d7c60fab2d07e055f7f18e ""
   "/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1463015741 1888031 5317a64a246c13fa560847c387843238 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -78,6 +78,7 @@
   "/usr/share/texlive/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty" 1137111090 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1488979921 31949 3ae02a131d161fd383f5b89f8ad0930c ""
+  "figuras/Capek_play.jpg" 1495827159 53259 7bb407c91ea0f98e7a255122c5b08cef ""
   "figuras/Open-source-hardware-logo.png" 1484838498 31822 cc0fad6556b87319d30f65126eb07b64 ""
   "figuras/Python-logo.png" 1495220842 4168 9c4cf31470e9792621725e4aa507c8c6 ""
   "figuras/Turtle_draw.jpg" 1487713702 185400 3dc0a274d5226f095489c41e4538afc1 ""
@@ -87,16 +88,16 @@
   "figuras/turtle_with_apple.JPG" 1487715681 30928 9125cfe39b9736f046c02958d4134623 ""
   "figuras/utn_logo.jpg" 1460219556 5791 768427d608944e4ebd81b7c1bb304fcc ""
   "introduccion.tex" 1495298476 3362 6b1ab452ad87de9dabcad25fb2770476 ""
-  "main.aux" 1495826091 7400 56133566566b73226cbc2c0888374e35 ""
-  "main.bbl" 1495826090 12867 d8d886782d26489abcb4761389b13821 "bibtex main"
-  "main.out" 1495826091 900 46355fb93480ef02325e2fbf7928efb0 ""
-  "main.tex" 1495826089 1080 12819b66d44de926110cc875ecbc069c ""
-  "main.toc" 1495826091 1172 ca92925f33cc9bb556c38ce8b90b89a6 ""
-  "marco_teorico.tex" 1495826078 30091 0fd2d33c685d0e05cd93c41429531749 ""
+  "main.aux" 1495828790 7572 7ebe8eb17c8a30916a4a17c3ee58c41b ""
+  "main.bbl" 1495828790 12867 d8d886782d26489abcb4761389b13821 "bibtex main"
+  "main.out" 1495828790 900 46355fb93480ef02325e2fbf7928efb0 ""
+  "main.tex" 1495828789 1080 12819b66d44de926110cc875ecbc069c ""
+  "main.toc" 1495828790 1172 07c2b18557b1d022a322a7b512d27753 ""
+  "marco_teorico.tex" 1495828785 30645 cfe06d6db4249c5b1d2d2bcf25c9ce12 ""
   "portada.tex" 1495293904 897 79cf437fad68fb278a07e47ee5329c45 ""
   (generated)
   "main.aux"
+  "main.out"
+  "main.pdf"
   "main.toc"
   "main.log"
-  "main.pdf"
-  "main.out"

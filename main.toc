@@ -8,8 +8,8 @@
 \contentsline {section}{\numberline {1.4}Hardware de especificaciones abiertas }{10}{section.1.4}
 \contentsline {subsection}{\numberline {1.4.1}Software libre en la escuela}{11}{subsection.1.4.1}
 \contentsline {section}{\numberline {1.5}Robots}{12}{section.1.5}
-\contentsline {section}{\numberline {1.6}Rob\IeC {\'o}tica educativa}{13}{section.1.6}
+\contentsline {section}{\numberline {1.6}Rob\IeC {\'o}tica educativa}{14}{section.1.6}
 \contentsline {section}{\numberline {1.7}Construccionismo}{15}{section.1.7}
-\contentsline {subsection}{\numberline {1.7.1}Lenguaje LOGO}{15}{subsection.1.7.1}
+\contentsline {subsection}{\numberline {1.7.1}Lenguaje LOGO}{16}{subsection.1.7.1}
 \contentsline {section}{\numberline {1.8}Lenguajes formales}{17}{section.1.8}
 \contentsline {subsection}{\numberline {1.8.1}python}{17}{subsection.1.8.1}
