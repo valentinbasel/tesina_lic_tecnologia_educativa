@@ -1,0 +1,6 @@
+PWD /home/vbasel/utn/tesis/latex
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /home/vbasel/.cache/texlive/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT marco_teorico.tex
+OUTPUT marco_teorico.log

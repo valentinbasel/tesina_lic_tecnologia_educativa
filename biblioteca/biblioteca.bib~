@@ -1,0 +1,211 @@
+
+@book{beatriz_busaniche_argentina_2010,
+	title = {Argentina copyleft. {La} crisis del modelo de derecho de autor y las prácticas para democratizar la cultura.},
+	author = {{Beatriz Busaniche}},
+	year = {2010}
+}
+
+@book{seymour_papert_desafio_1987,
+	title = {Desafío de la mente},
+	author = {{Seymour Papert}},
+	year = {1987}
+}
+
+@book{_uruguay_????,
+	title = {Uruguay, una computadora para cada niño},
+	url = {https://books.google.com.ar/books/about/Uruguay_una_computadora_para_cada_ni%C3%B1o.html?id=L4x8YgEACAAJ},
+	urldate = {2016-04-21},
+	file = {Snapshot:/home/vbasel/.mozilla/firefox/z82hammy.default/zotero/storage/I6JD3D9A/books.html:text/html}
+}
+
+@article{garrido__2009,
+	title = {¿ {Otra} vez el mismo error? {OLPC}, determinismo tecnológico y educación},
+	shorttitle = {?},
+	journal = {Uruguay: una computadora para cada Niño. Plan Ceibal. Los ojos del mundo en el primer modelo OLPC a escala nacional. Montevideo: Prentice Hall},
+	author = {Garrido, Fernando and Balaguer, Roberto},
+	year = {2009},
+	pages = {33--44}
+}
+
+@book{freire_pedagogioprimido._2015,
+	address = {Buenos Aires},
+	title = {Pedagogía del oprimido.},
+	isbn = {978-987-629-508-6},
+	language = {Spanish},
+	publisher = {Siglo veintiuno},
+	author = {Freire, Paulo},
+	year = {2015},
+	note = {OCLC: 946344968}
+}
+
+@article{sanchez_robotica_2012,
+	title = {La robótica como un recurso para facilitar el aprendizaje y desarrollo de competencias generales},
+	volume = {13},
+	url = {https://dialnet.unirioja.es/servlet/articulo?codigo=3979056},
+	number = {2},
+	urldate = {2016-08-21},
+	journal = {Education in the knowledge society (EKS)},
+	author = {Sánchez, Flor angela Bravo and Guzmán, Alejandro Forero},
+	year = {2012},
+	pages = {120--136},
+	file = {Dialnet Snapshot:/home/vbasel/.mozilla/firefox/z82hammy.default/zotero/storage/79KNV45B/articulo.html:text/html}
+}
+
+@article{adell_software_2007,
+	title = {Software libre en educación},
+	url = {},
+	urldate = {2016-08-26},
+	journal = {Tecnología educativa. Madrid: McGraw-Hill},
+	author = {Adell, Jordi and Bernabé, Y.},
+	year = {2007},
+	pages = {173--195},
+	file = {[PDF] researchgate.net:/home/vbasel/.mozilla/firefox/z82hammy.default/zotero/storage/PDHIPCEP/Adell y Bernabé - 2007 - Software libre en educación.pdf:application/pdf}
+}
+
+@article{chavarria_software_2011,
+	title = {Software libre, alternativa tecnológica para la educación},
+	volume = {5},
+	copyright = {Copyright (c) 2014 Actualidades Investigativas en Educación},
+	issn = {1409-4703},
+	url = {http://revista.inie.ucr.ac.cr/index.php/aie/article/view/86},
+	doi = {10.15517/aie.v5i2.9150},
+	abstract = {Interesa conocer la utilización práctica del software libre en ámbitos educativos; especialmente se enfatiza en cómo este se puede convertir en una herramienta apropiada para los procesos de enseñanza y aprendizaje, aunque sin soslayar sus características ventajosas y menos ventajosas, considerando los contextos en que se ponga en marcha. Además, se dan ejemplos prácticos de su utilización. Se incorporan algunas noticias de eventos y hechos relevantes de reciente suceso para ilustrar más ampliamente lo planteado. It is of interest for the present article the practical use of free software in the field of education; a special emphasis is given to the possibility of its use as an appropriate tool for the processes of education and learning, without avoiding its advantageous and less advantageous features, considering the contexts in which these tools are set forward. Also, practical examples of their use are given. Some news of events and recent relevant facts are included to illustrate the point of discussion in a broader sense.},
+	language = {es},
+	number = {2},
+	urldate = {2016-08-26},
+	journal = {Revista Actualidades Investigativas en Educación},
+	author = {Chavarría, Johnny Valverde},
+	month = mar,
+	year = {2011},
+	keywords = {didáctica, didactics, educación, education, educative tecnology, free software, internet, software libre, tecnología, tecnología educativa, tecnology, www},
+	file = {}
+}
+
+@inproceedings{gonzalez_hardware_2003,
+	title = {Hardware libre: clasificación y desarrollo de hardware reconfigurable en entornos {GNU}/{Linux}},
+	shorttitle = {Hardware libre},
+	url = {},
+	urldate = {2016-08-26},
+	booktitle = {{VI} {Congreso} de {Hispalinux}, {Universidad} {Rey} {Juan} {Carlos} {I}},
+	author = {González, Ivan and González, Juan and Gómez-Arribas, Francisco},
+	year = {2003},
+	file = {[PDF] nluug.nl:/home/vbasel/.mozilla/firefox/z82hammy.default/zotero/storage/Z2ECCUGJ/González et al. - 2003 - Hardware libre clasificación y desarrollo de hard.pdf:application/pdf}
+}
+
+@article{pitti_experiencias_2010,
+	title = {Experiencias construccionistas con robótica educativa en el {Centro} {Internacional} de {Tecnologías} {Avanzadas}},
+	volume = {11},
+	url = {http://gredos.usal.es/jspui/handle/10366/72852},
+	number = {1},
+	urldate = {2016-08-26},
+	journal = {Teoría de la Educación},
+	author = {Pittí, Kathia and Curto Diego, María Belén and Moreno Rodilla, Vidal},
+	year = {2010},
+	pages = {26},
+	file = {[PDF] usal.es:/home/vbasel/.mozilla/firefox/z82hammy.default/zotero/storage/JM2QZDAK/Pittí et al. - 2010 - Experiencias construccionistas con robótica educat.pdf:application/pdf;Snapshot:/home/vbasel/.mozilla/firefox/z82hammy.default/zotero/storage/N3ZI953H/72852.html:text/html}
+}
+
+@book{freire_pedagogiautonomi:_2006,
+	title = {Pedagogía de la autonomía: saberes necesarios para la práctica educativa},
+	isbn = {978-968-23-2069-9},
+	shorttitle = {Pedagogía de la autonomía},
+	abstract = {En la búsqueda permanente de aprendizaje, pocas veces encontramos textos apropiados como éste, que nos enseña a enseñar partiendo del ser profesor. El autor, en un lenguaje accesible y didáctico, reflexiona sobre saberes necesarios para la práctica educativa-crítica con base en una ética pedagógica y en una visión del mundo cimentadas en el rigor, la investigación y la actitud crítica.},
+	language = {es},
+	publisher = {Siglo XXI},
+	author = {Freire, Paulo},
+	year = {2006},
+	note = {Google-Books-ID: OYK4bZG6hxkC},
+	keywords = {Literary Collections / Essays}
+}
+
+@book{reyes_cortes_robotica:_2011,
+	address = {México},
+	title = {Robótica: control de {Robots} manipuladores},
+	isbn = {978-607-707-190-7},
+	shorttitle = {Robótica},
+	language = {spa},
+	publisher = {Alfaomega},
+	author = {Reyes Cortés, Fernando},
+	year = {2011},
+	note = {OCLC: 931981753},
+	file = {Table of Contents PDF:/home/vbasel/.mozilla/firefox/z82hammy.default/zotero/storage/3UKD29AV/Reyes Cortés - 2011 - Robótica control de Robots manipuladores.pdf:application/pdf}
+}
+
+@book{giro_lenguaje_2015,
+	address = {Buenos Aires},
+	title = {Lenguaje formales y teoría de autómatas},
+	isbn = {978-987-1609-81-9},
+	language = {Spanish},
+	publisher = {Alfaomega},
+	author = {Giró, Juan},
+	year = {2015},
+	note = {OCLC: 953193943}
+}
+
+@book{grune_diseno_2007,
+	address = {Madrid},
+	title = {Diseño de compiladores modernos},
+	isbn = {978-84-481-5656-5},
+	language = {Spanish},
+	publisher = {McGraw-Hill},
+	author = {Grune, Dick and Catalina Gallego, Alfredo},
+	year = {2007},
+	note = {OCLC: 182734548}
+}
+
+@book{duek_juegos_2014,
+	address = {Ciudad Autónoma de Buenos Aires},
+	edition = {1. ed},
+	title = {Juegos, juguetes y nuevas tecnologías},
+	isbn = {978-987-614-435-3},
+	language = {spa},
+	publisher = {Ciudad Intelectual},
+	author = {Duek, Carolina},
+	year = {2014},
+	note = {OCLC: 931607910},
+	file = {Table of Contents PDF:/home/vbasel/.mozilla/firefox/z82hammy.default/zotero/storage/RIRAAMRF/Duek - 2014 - Juegos, juguetes y nuevas tecnologías.pdf:application/pdf}
+}
+
+@book{stallman_software_2007,
+	title = {Software libre para una sociedad libre},
+	isbn = {978-84-933555-1-7},
+	language = {es},
+	publisher = {Traficantes de Sueños},
+	author = {Stallman, Richard M.},
+	year = {2007},
+	note = {Google-Books-ID: ww9XAgAACAAJ},
+	keywords = {Philosophy / Political}
+}
+
+@article{raymond_catedral_1998,
+	title = {La catedral y el bazar},
+	volume = {12},
+	url = {http://www.athanazio.com/downloads/livros/catedral-ou-bazar.pdf},
+	urldate = {2016-08-26},
+	journal = {The Linux Logic Home Page},
+	author = {Raymond, Eric S.},
+	year = {1998},
+	file = {[PDF] athanazio.com:/home/vbasel/.mozilla/firefox/z82hammy.default/zotero/storage/EXA5NTJD/Raymond - 1998 - La catedral y el bazar.pdf:application/pdf}
+}
+
+@article{candon-mena_soberanitecnologica_2012,
+	title = {Soberanía tecnológica en la era de las redes},
+	url = {http://idus.us.es/xmlui/handle/11441/27019},
+	urldate = {2016-08-27},
+	author = {Candón-Mena, José Ignacio},
+	year = {2012},
+	file = {[PDF] us.es:/home/vbasel/.mozilla/firefox/z82hammy.default/zotero/storage/BZJ5NNGW/Candón-Mena - 2012 - Soberanía tecnológica en la era de las redes.pdf:application/pdf;Snapshot:/home/vbasel/.mozilla/firefox/z82hammy.default/zotero/storage/WX2JJ84Q/27019.html:text/html}
+}
+
+@article{boyle_second_2003,
+	title = {The second enclosure movement and the construction of the public domain},
+	volume = {66},
+	url = {http://www.jstor.org/stable/20059171},
+	number = {1/2},
+	urldate = {2016-08-27},
+	journal = {Law and contemporary problems},
+	author = {Boyle, James},
+	year = {2003},
+	pages = {33--74},
+	file = {[PDF] duke.edu:/home/vbasel/.mozilla/firefox/z82hammy.default/zotero/storage/BVA9WGUS/Boyle - 2003 - The second enclosure movement and the construction.pdf:application/pdf;Snapshot:/home/vbasel/.mozilla/firefox/z82hammy.default/zotero/storage/HEJRTC57/20059171.html:text/html}
+}
