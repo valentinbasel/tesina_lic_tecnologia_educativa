@@ -25,7 +25,7 @@
 
 \input{introduccion}
 \input{marco_teorico}
-%\input{cap2}
+\input{estado_de_la_cuestion}
 
 
 %\cleardoublepage

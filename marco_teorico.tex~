@@ -157,6 +157,15 @@ Los proyectos de software libre suelen tener un coste inicial de desarrollo muy 
 
 A nivel histórico, la palabra robots viene definida por la la obra R.U.R. (Robots Universales Rossum) del dramaturgo checo Karel Čapek, donde se uso por primera ves la expresión "robotnik" para referirse a seres humanos sintéticos creados para ser esclavos de la humanidad  \citep{zabala_robotica_2007}. Sin embargo la popularidad del termino robot se da por el escritor y divulgador científico Isaac Asimov, que uso el termino robótica para referirse a la disciplina que estudia a sistemas autónomos con cierto grado de capacidad para tomar decisiones e interaccionar con su medio (físico o virtual).
 
+\begin{wrapfigure}{r}{0.5\textwidth}
+  \begin{center}
+    \includegraphics[width=0.4\textwidth]{figuras/Capek_play.jpg}
+    \caption[Caption for LOF]{una escena de la obra de Karel Čapek's R.U.R. (Rossum's Universal Robots), en donde podemos ver a los ''robots''.}
+       
+    \label{fig:reprap }
+  \end{center}
+\end{wrapfigure}
+
 Se podría decir que cualquier sistema que posea sensores, actuadores y algún tipo de dispositivo que le permita realizar algoritmos de procesamientos, es un robot. Una definición tan laxa haría que prácticamente cualquier dispositivo pueda ser considerado un robot. Podemos decir entonces, que hay múltiples definiciones de la palabra robot, en función de las necesidades especificas de cada país u organización, por ejemplo si tomamos la definición empleada por la R.I.A \footnote{https://www.robotics.org/}, un robot (sobre todo pensando en el robot industrial) es\footnote{https://definitions.uslegal.com/r/robotics/} : 
   
 
@@ -166,13 +175,13 @@ Se podría decir que cualquier sistema que posea sensores, actuadores y algún t
 
 lo que se podría traducir como: ''un robot es un manipulador multifuncional y reprogramable diseñado para desplazar materiales, componentes, herramientas o dispositivos especializados por medio de movimientos programados variables con el fin de realizar tareas diversas''.
 
-Por otro lado, la J.A.R.A\footnote{http://www.jara.jp/e/index.html} (Japan Robot Association, ex J.I.R.A) usa una definición menos orientada a los manipuladores industriales (como los brazos robots que se usan en la industria automotriz) \citet{reyes_cortes_robotica:_2011}:
+Por otro lado, la J.A.R.A\footnote{http://www.jara.jp/e/index.html} (Japan Robot Association, ex J.I.R.A) usa una definición menos orientada a los manipuladores industriales (como los brazos robots que se usan en la industria automotriz) \cite{reyes_cortes_robotica:_2011}:
 
 \begin{center}
 \textit{Los robots son dispositivos capaces de moverse de modo flexible análogo al que poseen los organismos vivos, con o sin funciones intelectuales, permitiendo operaciones en respuesta a las órdenes humanas}
 \end{center}
 
-
+Como podemos ver hay múltiples definiciones de la robótica, algunas mas orientadas a la industria, y otras mas generales, donde un robot puede ser desde una androide (robot con forma humanoide) hasta un electrodoméstico. 
 
 
 \section{Robótica educativa}

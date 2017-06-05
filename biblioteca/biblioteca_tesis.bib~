@@ -884,3 +884,39 @@ One of the most popular applications for robotics simulators is for 3D modeling 
 	author = {Gonzalez, Zacca and HernandezII, Gisela Martinez},
 	file = {[PDF] medigraphic.com:/home/vbasel/.mozilla/firefox/6vhl3rdk.default/zotero/storage/HKFXQFCG/González y HernándezII - Recursos educativos abiertos.pdf:application/pdf}
 }
+
+
+@article{de2016introduccion,
+  title={Introducci{\'o}n pr{\'a}ctica a la programaci{\'o}n con Python},
+  author={de Sevilla Vell{\'o}n, Mar{\'\i}a Angeles Fern{\'a}ndez and D{\'\i}az, Mar{\'\i}a Jes{\'u}s Algar},
+  year={2016},
+  publisher={Servicio de Publicaciones}
+}
+
+@article{ramirez2010python,
+  title={Python como primer lenguaje de programaci{\'o}n},
+  author={Ram{\i}rez, Ariel Ortiz},
+  journal={Publicaci{\'o}n interna del Tecnol{\'o}gico de Monterrey, Campus Estado de M{\'e}xico},
+  year={2010}
+}
+
+@misc{marzal2003aprender,
+  title={Aprender a programar con Python: una experiencia docente},
+  author={Marzal, Andr{\'e}s and Llorens, David and Gracia, Isabel},
+  year={2003},
+  publisher={Universitat Jaume I, Obtenido de: http://es. tldp. org/Presentaciones/200309hispalinux/15/15. pdf}
+}
+
+@article{sadosky2013cc,
+  title={CC-2016 Una propuesta para refundar la ense{\~n}anza de la computaci{\'o}n de las escuelas argentinas},
+  author={Sadosky, Fundaci{\'o}n},
+  journal={Buenos Aires},
+  year={2013}
+}
+
+@article{k2016k,
+  title={K-12 Computer Science Framework},
+  author={K-12 Computer Science Framework Steering Committee and others},
+  year={2016},
+  publisher={ACM}
+}

@@ -15,45 +15,45 @@ Database file #1: biblioteca/biblioteca_tesis.bib
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
 Warning--No journal in de2016introduccion
 Warning--No journal in montoya2012recursos
-You've used 21 entries,
+You've used 23 entries,
             6951 wiz_defined-function locations,
-            1387 strings with 14023 characters,
-and the built_in function-call counts, 35275 in all, are:
-= -- 4432
-> -- 257
-< -- 1607
-+ -- 1574
-- -- 46
-* -- 2123
-:= -- 6372
-add.period$ -- 87
-call.type$ -- 21
-change.case$ -- 360
+            1397 strings with 14327 characters,
+and the built_in function-call counts, 38902 in all, are:
+= -- 4890
+> -- 281
+< -- 1785
++ -- 1761
+- -- 51
+* -- 2348
+:= -- 7051
+add.period$ -- 95
+call.type$ -- 23
+change.case$ -- 394
 chr.to.int$ -- 0
-cite$ -- 44
-duplicate$ -- 876
-empty$ -- 1509
-format.name$ -- 398
-if$ -- 6908
+cite$ -- 48
+duplicate$ -- 967
+empty$ -- 1649
+format.name$ -- 436
+if$ -- 7599
 int.to.chr$ -- 0
-int.to.str$ -- 63
+int.to.str$ -- 69
 missing$ -- 0
-newline$ -- 514
-num.names$ -- 168
-pop$ -- 833
+newline$ -- 561
+num.names$ -- 184
+pop$ -- 880
 preamble$ -- 1
-purify$ -- 86
+purify$ -- 94
 quote$ -- 0
-skip$ -- 2277
+skip$ -- 2531
 stack$ -- 0
-substring$ -- 1722
-swap$ -- 470
-text.length$ -- 46
+substring$ -- 1928
+swap$ -- 518
+text.length$ -- 50
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 1744
+type$ -- 1904
 warning$ -- 2
-while$ -- 138
+while$ -- 150
 width$ -- 0
-write$ -- 596
+write$ -- 651
 (There were 2 warnings)

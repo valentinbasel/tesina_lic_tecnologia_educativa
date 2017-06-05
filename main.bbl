@@ -136,6 +136,32 @@ de Sevilla~Vell{\'o}n, M\BPBI A\BPBI F.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Dijkstra%
+\ \BBA {} Montoya%
+}{%
+Dijkstra%
+\ \BBA {} Montoya%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+dijkstra2010que}
+\APACinsertmetastar {%
+dijkstra2010que}%
+\begin{APACrefauthors}%
+Dijkstra, E\BPBI W.%
+\BCBT {}\ \BBA {} Montoya, {\'E}\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Por qu{\'e} Johnny no puede comprender} {Por qu{\'e}
+  johnny no puede comprender}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{L{\'a}mpsakos}{}{3}{76--77}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Freire%
 }{%
 Freire%
@@ -453,6 +479,31 @@ Reyes~Cortés, F.%
 \APACaddressPublisher{México}{Alfaomega}.
 \newblock
 \APACrefnote{OCLC: 931981753}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sadosky%
+}{%
+Sadosky%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+sadosky2013cc}
+\APACinsertmetastar {%
+sadosky2013cc}%
+\begin{APACrefauthors}%
+Sadosky, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {CC-2016 Una propuesta para refundar la ense{\~n}anza de
+  la computaci{\'o}n de las escuelas argentinas} {Cc-2016 una propuesta para
+  refundar la ense{\~n}anza de la computaci{\'o}n de las escuelas
+  argentinas}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Buenos Aires}{}{}{}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

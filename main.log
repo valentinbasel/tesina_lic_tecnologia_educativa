@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.1.5)  26 MAY 2017 16:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.1.5)  5 JUN 2017 20:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -645,7 +645,7 @@ LaTeX Info: Redefining \BHBI on input line 139.
 )
 \c@lstlisting=\count121
  (./portada.tex
-<./figuras/utn_logo.jpg, id=60, 240.9pt x 246.9225pt>
+<./figuras/utn_logo.jpg, id=88, 240.9pt x 246.9225pt>
 File: ./figuras/utn_logo.jpg Graphic file (type jpg)
 
 <use ./figuras/utn_logo.jpg>
@@ -665,6 +665,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ) [2] (./main.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 20.
 )
 \tf@toc=\write4
 \openout4 = `main.toc'.
@@ -721,13 +723,13 @@ LaTeX Info: Redefining \% on input line 65.
 LaTeX Info: Redefining \. on input line 80.
 LaTeX Info: Redefining \% on input line 80.
  [9]
-<figuras/fsf.png, id=174, 1927.2pt x 224.84pt>
+<figuras/fsf.png, id=210, 1927.2pt x 224.84pt>
 File: figuras/fsf.png Graphic file (type png)
  <use figuras/fsf.png>
 Package pdftex.def Info: figuras/fsf.png used on input line 84.
 (pdftex.def)             Requested size: 195.0pt x 22.74948pt.
 
-<figuras/Open-source-hardware-logo.png, id=178, 513.92pt x 540.0175pt>
+<figuras/Open-source-hardware-logo.png, id=214, 513.92pt x 540.0175pt>
 File: figuras/Open-source-hardware-logo.png Graphic file (type png)
 
 <use figuras/Open-source-hardware-logo.png>
@@ -741,12 +743,10 @@ Underfull \hbox (badness 1194) in paragraph at lines 103--104
 
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 105.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 105.
 LaTeX Info: Redefining \. on input line 111.
 LaTeX Info: Redefining \% on input line 111.
 [10 <./figuras/fsf.png> <./figuras/Open-source-hardware-logo.png>]
-<figuras/reprap.jpg, id=194, 640.3925pt x 481.8pt>
+<figuras/reprap.jpg, id=230, 640.3925pt x 481.8pt>
 File: figuras/reprap.jpg Graphic file (type jpg)
  <use figuras/reprap.jpg>
 Package pdftex.def Info: figuras/reprap.jpg used on input line 116.
@@ -762,7 +762,7 @@ LaTeX Info: Redefining \% on input line 143.
 LaTeX Info: Redefining \. on input line 159.
 LaTeX Info: Redefining \% on input line 159.
  [12]
-<figuras/Capek_play.jpg, id=223, 568.1225pt x 317.185pt>
+<figuras/Capek_play.jpg, id=259, 568.1225pt x 317.185pt>
 File: figuras/Capek_play.jpg Graphic file (type jpg)
 
 <use figuras/Capek_play.jpg>
@@ -779,7 +779,7 @@ LaTeX Info: Redefining \% on input line 185.
 LaTeX Info: Redefining \. on input line 196.
 LaTeX Info: Redefining \% on input line 196.
  [14]
-<figuras/Turtle_draw.jpg, id=259, 203.5605pt x 150.0807pt>
+<figuras/Turtle_draw.jpg, id=296, 203.5605pt x 150.0807pt>
 File: figuras/Turtle_draw.jpg Graphic file (type jpg)
 
 <use figuras/Turtle_draw.jpg>
@@ -793,14 +793,14 @@ Underfull \hbox (badness 1688) in paragraph at lines 212--213
 LaTeX Info: Redefining \. on input line 215.
 LaTeX Info: Redefining \% on input line 215.
 [15 <./figuras/Turtle_draw.jpg>]
-<figuras/logo_robot.jpg, id=269, 225.84375pt x 188.95593pt>
+<figuras/logo_robot.jpg, id=306, 225.84375pt x 188.95593pt>
 File: figuras/logo_robot.jpg Graphic file (type jpg)
 
 <use figuras/logo_robot.jpg>
 Package pdftex.def Info: figuras/logo_robot.jpg used on input line 222.
 (pdftex.def)             Requested size: 77.99881pt x 65.25905pt.
 
-<figuras/turtle_with_apple.JPG, id=273, 177.41197pt x 132.69643pt>
+<figuras/turtle_with_apple.JPG, id=310, 177.41197pt x 132.69643pt>
 File: figuras/turtle_with_apple.JPG Graphic file (type jpg)
 
 <use figuras/turtle_with_apple.JPG>
@@ -809,32 +809,83 @@ Package pdftex.def Info: figuras/turtle_with_apple.JPG used on input line 234.
 LaTeX Info: Redefining \. on input line 245.
 LaTeX Info: Redefining \% on input line 245.
  [16 <./figuras/logo_robot.jpg>]
-Underfull \hbox (badness 1019) in paragraph at lines 245--246
-[][]\OT1/cmr/m/n/12 Podemos definir a un lengua-
- []
-
-<figuras/Python-logo.png, id=284, 110.4125pt x 110.4125pt>
+LaTeX Info: Redefining \. on input line 254.
+LaTeX Info: Redefining \% on input line 254.
+ [17 <./figuras/turtle_with_apple.JPG>]
+<figuras/Python-logo.png, id=328, 110.4125pt x 110.4125pt>
 File: figuras/Python-logo.png Graphic file (type png)
 
 <use figuras/Python-logo.png>
-Package pdftex.def Info: figuras/Python-logo.png used on input line 256.
+Package pdftex.def Info: figuras/Python-logo.png used on input line 260.
 (pdftex.def)             Requested size: 77.99881pt x 78.00255pt.
-
-Underfull \vbox (badness 1859) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 263.
-LaTeX Info: Redefining \% on input line 263.
- [17 <./figuras/turtle_with_apple.JPG>]) (./main.bbl
+) (./estado_de_la_cuestion.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
  [18 <./figuras/Python-logo.png>]
+Cap\'{\i }tulo 2.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 15.
 [19
+
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 19.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathsurround' on input line 19.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 19.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 19.
+
+<figuras/Arduino_Uno_-_R3.jpg, id=348, 180.675pt x 180.675pt>
+File: figuras/Arduino_Uno_-_R3.jpg Graphic file (type jpg)
+
+<use figuras/Arduino_Uno_-_R3.jpg>
+Package pdftex.def Info: figuras/Arduino_Uno_-_R3.jpg used on input line 23.
+(pdftex.def)             Requested size: 155.99762pt x 155.99776pt.
+
+Underfull \hbox (badness 1215) in paragraph at lines 30--31
+\OT1/cmr/m/n/12 gen-er-a-da por las dis-tin-tas co-mu-
+ []
+
+LaTeX Info: Redefining \. on input line 33.
+LaTeX Info: Redefining \% on input line 33.
+[20 <./figuras/Arduino_Uno_-_R3.jpg>]
+Overfull \hbox (3.58575pt too wide) in paragraph at lines 37--37
+[]\OT1/cmr/bx/n/17.28 lenguajes de pro-gra-maci^^Son en la ense~nan-
+ []
+
+LaTeX Info: Redefining \. on input line 62.
+LaTeX Info: Redefining \% on input line 62.
+[21]
+Overfull \hbox (5.21396pt too wide) in paragraph at lines 69--70
+[]\OT1/cmr/m/n/12 Sin em-bar-go co-mo crit-i-ca a ese mod-e-lo, []Di-jk-stra y 
+Mon-toya[] ([]2010[]) plantean
+ []
+
+LaTeX Info: Redefining \. on input line 82.
+LaTeX Info: Redefining \% on input line 82.
+[22]
+Overfull \hbox (2.9778pt too wide) in paragraph at lines 83--83
+[]\OT1/cmr/bx/n/17.28 Rob^^Sotica y la ense~nan-za de pro-gra-maci^^Son 
+ []
+
+) (./main.bbl
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [23] [24
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 36.
 LaTeX Info: Redefining \. on input line 36.
 LaTeX Info: Redefining \% on input line 36.
- [20]
+ [25]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 36.
  (./main.aux
 LaTeX Info: Redefining \. on input line 23.
@@ -843,7 +894,7 @@ LaTeX Info: Redefining \% on input line 23.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 36.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 36.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 46355FB93480EF02325E2FBF7928EFB0;900.
+(rerunfilecheck)             Checksum: 1BB7F46DD82A230BBC417FA41D068C74;1447.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -851,27 +902,29 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 36.
  ) 
 Here is how much of TeX's memory you used:
- 9173 strings out of 494946
- 129114 string characters out of 6180982
- 238639 words of memory out of 5000000
- 12272 multiletter control sequences out of 15000+600000
- 9368 words of font info for 33 fonts, out of 8000000 for 9000
+ 9237 strings out of 494946
+ 130085 string characters out of 6180982
+ 238792 words of memory out of 5000000
+ 12306 multiletter control sequences out of 15000+600000
+ 10601 words of font info for 37 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 29i,15n,51p,1234b,1594s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 31i,15n,51p,1234b,1594s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmsl12.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmtt12.pfb>
-Output written on main.pdf (20 pages, 615529 bytes).
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmsl12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on main.pdf (25 pages, 900465 bytes).
 PDF statistics:
- 372 PDF objects out of 1000 (max. 8388607)
- 324 compressed objects within 4 object streams
- 81 named destinations out of 1000 (max. 500000)
- 158 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 472 PDF objects out of 1000 (max. 8388607)
+ 414 compressed objects within 5 object streams
+ 105 named destinations out of 1000 (max. 500000)
+ 219 words of extra memory for PDF output out of 10000 (max. 10000000)
 
