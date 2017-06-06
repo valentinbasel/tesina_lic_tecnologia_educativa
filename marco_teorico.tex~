@@ -240,6 +240,10 @@ Originalmente, las primeras pruebas de LOGO se hicieron con robots como el de la
 
 Con el advenimiento de las micro computadoras (como las ZX spectrum y las commodores C64), que contaban con la capacidad de trabajar  en monitores a color (o en los televisores CRT de la época) y con un bajo costo de adquisición, se dejo de utilizar los robots tortuga, para directamente trabajar con el lenguaje de programación LOGO y una ''tortuga virtual'', menos llamativa pero mucho mas barato de adquirir para los colegios.
 
+\section{Ciencias de la computación}
+
+Tomando como referencia a la propuesta de la fundación Sadosky \citep{sadosky2013cc} podemos hacer una diferencia entre las  tecnologías de la  información y comunicación (TIC) y las ciencias de la computación (CC), donde las primeras (TICs) se refieren a nivel global sobre el uso de herramientas basadas en computadoras (ofimaticas, navegación por internet, etc etc.), mientras que las ciencias de la computación están mas orientadas específicamente a la generación de habilidades y competencias especificas 
+
 \section{Lenguajes formales}
 
 Podemos definir a un lenguaje formal como un lenguaje cuyos símbolos (alfabeto) y reglas para unir esos símbolos (gramática) están formalmente definidos \citep{giro_lenguaje_2015}. Por consiguiente se pordia decir que su particularidad  es la de un lenguaje cuyos significados son ''vacíos'', dicho en otros términos: en los lenguajes formales los signos pueden ser manipulados sin interpretación, se trata de un ''usar sin necesidad de entender'' para potenciar y mejorar los razonamientos en la medida que se evitan los sesgos cognitivos asociados al uso del lenguaje natural.

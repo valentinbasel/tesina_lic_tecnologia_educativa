@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex main"] 1496706786 "main.aux" "main.bbl" "main" 1496706787
+["bibtex main"] 1496716453 "main.aux" "main.bbl" "main" 1496716503
   "/usr/share/texlive/texmf-dist/bibtex/bst/apacite/apacite.bst" 1374530685 141073 9d7b79dbf9d91133318126032cff8c27 ""
-  "biblioteca/biblioteca_tesis.bib" 1496700014 40945 7ebf87e05667c54566652755924a29f3 ""
-  "main.aux" 1496706787 9037 4cb37f5ff8974ffa5f0ee5a8e371083b ""
+  "biblioteca/biblioteca_tesis.bib" 1496712406 41168 e3d8de8be500654f7bc024a78a25936b ""
+  "main.aux" 1496716496 9346 36cac0d35f29271c13193bd0e5a2aeb2 ""
   (generated)
-  "main.bbl"
   "main.blg"
-["pdflatex"] 1496706786 "main.tex" "main.pdf" "main" 1496706787
+  "main.bbl"
+["pdflatex"] 1496716495 "main.tex" "main.pdf" "main" 1496716503
   "/home/vbasel/.cache/texlive/texmf-var/web2c/pdftex/pdflatex.fmt" 1483652513 719142 b6c0a53f41d7c60fab2d07e055f7f18e ""
   "/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1463015741 1888031 5317a64a246c13fa560847c387843238 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -83,7 +83,7 @@
   "/usr/share/texlive/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty" 1137111090 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1488979921 31949 3ae02a131d161fd383f5b89f8ad0930c ""
-  "estado_de_la_cuestion.tex" 1496706489 9408 8e9cfa94f86f13b796c9c0f905476e48 ""
+  "estado_de_la_cuestion.tex" 1496715908 11280 930474e30e73ecace63a447575d37557 ""
   "figuras/Arduino_Uno_-_R3.jpg" 1496690744 243990 c6e58e4d6c34bc7d85bb1a338295c186 ""
   "figuras/Capek_play.jpg" 1495827159 53259 7bb407c91ea0f98e7a255122c5b08cef ""
   "figuras/Open-source-hardware-logo.png" 1484838498 31822 cc0fad6556b87319d30f65126eb07b64 ""
@@ -95,16 +95,16 @@
   "figuras/turtle_with_apple.JPG" 1487715681 30928 9125cfe39b9736f046c02958d4134623 ""
   "figuras/utn_logo.jpg" 1460219556 5791 768427d608944e4ebd81b7c1bb304fcc ""
   "introduccion.tex" 1495298476 3362 6b1ab452ad87de9dabcad25fb2770476 ""
-  "main.aux" 1496706787 9037 4cb37f5ff8974ffa5f0ee5a8e371083b ""
-  "main.bbl" 1496706786 14039 eba16fc34cafe8ef720788e640cde131 "bibtex main"
-  "main.out" 1496706787 1447 1bb7f46dd82a230bbc417fa41d068c74 ""
-  "main.tex" 1496706785 1096 c21a7107ee0530bc9ab87dd2da834f8e ""
-  "main.toc" 1496706787 1904 cc81cf01764131ac8cf0b5457590ad62 ""
-  "marco_teorico.tex" 1496328675 31206 a501916eb66cbb08ce44f2f38d2eafdd ""
+  "main.aux" 1496716496 9346 36cac0d35f29271c13193bd0e5a2aeb2 ""
+  "main.bbl" 1496716453 14621 50966ab314f563d8574b64756246edff "bibtex main"
+  "main.out" 1496716496 1579 00efe12cf4f5fd7d74448f803a698228 ""
+  "main.tex" 1496716503 1096 c21a7107ee0530bc9ab87dd2da834f8e ""
+  "main.toc" 1496716496 2058 825dc6102a9a523d562520d42249aa18 ""
+  "marco_teorico.tex" 1496716493 31809 968ca86c0748aa037feef425c8d06935 ""
   "portada.tex" 1495293904 897 79cf437fad68fb278a07e47ee5329c45 ""
   (generated)
   "main.out"
   "main.aux"
   "main.log"
-  "main.toc"
   "main.pdf"
+  "main.toc"

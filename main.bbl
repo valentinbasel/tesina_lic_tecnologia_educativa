@@ -345,6 +345,32 @@ Marzal, A.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Marzal%
+\ \BBA {} Luengo%
+}{%
+Marzal%
+\ \BBA {} Luengo%
+}{%
+{\protect \APACyear {2004}}%
+}]{%
+marzal2004introduccion}
+\APACinsertmetastar {%
+marzal2004introduccion}%
+\begin{APACrefauthors}%
+Marzal, A.%
+\BCBT {}\ \BBA {} Luengo, I\BPBI G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2004}.
+\newblock
+\APACrefbtitle {Introducci{\'o}n a la Programaci{\'o}n con Python y C}
+  {Introducci{\'o}n a la programaci{\'o}n con python y c}.
+\newblock
+\APACaddressPublisher{}{Publicacions de la Universitat Jaume I}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Montoya%
 \ \BBA {} Aguilar%
 }{%

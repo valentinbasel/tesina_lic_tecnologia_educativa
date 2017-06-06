@@ -1,4 +1,4 @@
-\chapter{Robótica educativa}
+\chapter{Estado de la cuestión}
 
 \section{Introducción}
 
@@ -10,11 +10,11 @@ Podemos decir que las ciencias de la computación \citep[pág 4]{sadosky2013cc} 
 
 \section{Antecedentes}
 
-El uso de dispositivos robots para enseñanza, tiene su origen en el trabajo de Seymour Papert, y su desarrollo del lenguaje LOGO. Este lenguaje en un principio accionaba un robot con forma de tortuga (de ahi que el logotipo de LOGO sea una tortuga), el cual se movía sobre una superficie plana dibujando en función de las instrucciones previamente creadas en la computadora que los discentes usaban.
+El uso de dispositivos robots para enseñanza, tiene su origen en el trabajo de Seymour Papert, y su desarrollo del lenguaje LOGO. Este lenguaje en un principio accionaba un robot con forma de tortuga (de ahi que el logotipo de LOGO sea una tortuga), el cual se movía sobre una superficie plana dibujando en función de las instrucciones previamente creadas en la computadora que los discentes usaban. Basado en ese esquema, los discentes programan en lenguaje LOGO (un lenguaje muy parecido en su forma al lenguaje LISP), luego activan el robot tortuga y la computadora enviá las ordenes para que este se mueva, dibujando sobre un papel. 
 
-Basado en ese esquema, los discentes programan en lenguaje LOGO (un lenguaje muy parecido en su forma al lenguaje LISP), luego activan el robot tortuga y la computadora enviá las ordenes para que este se mueva, dibujando sobre un papel. A través de esa experiencia, Papert colabora con la empresa LEGO para fabricar el producto LEGO/LOGO, el cual después pasaría a ser conocido como LEGO MINDSTORM\textsuperscript{\texttrademark}, una plataforma física basada en fichas LEGO\textsuperscript{\textregistered} que también incluye hardware de adquisición de datos capas de leer sensores y trabajar sobre diversos actuadores, y permite interconectar todo para lograr diversos robots.
+A través de esa experiencia, Papert colabora con la empresa LEGO para fabricar el producto LEGO/LOGO, el cual después pasaría a ser conocido como LEGO MINDSTORM\textsuperscript{\texttrademark}, una plataforma física basada en fichas LEGO\textsuperscript{\textregistered} que también incluye hardware de adquisición de datos capas de leer sensores y trabajar sobre diversos actuadores, y permite interconectar todo para lograr diversos robots.
 
-Con el tiempo lenguaje LOGO abandonaría la tortuga robot principalmente por razones presupuestarias, el abaratamiento de las micro computadoras (por ej. COMMODORE\textsuperscript{\textregistered} c64) con capacidad de procesar gráficos a color y el elevado costo de cada robot tortuga, hicieron que fuera muy dificil implementar una curricula basada en LOGO solamente con el uso del robot tortuga.
+Con el tiempo lenguaje LOGO abandonaría la tortuga robot principalmente por razones presupuestarias, el abaratamiento de las micro computadoras (por ej. COMMODORE\textsuperscript{\textregistered} c64) con capacidad de procesar gráficos a color y el elevado costo de cada robot tortuga, hicieron que fuera muy difícil implementar una curricula basada en LOGO solamente con el uso del robot tortuga.
 
 \subsection{ARDUINO\textsuperscript{\texttrademark} y la revolución del hardware libre.} 
 
@@ -79,6 +79,31 @@ lo que se puede traducir como:
 \end{center}
 
 seymour \cite{seymour_papert_desafio_1987} plantea que los lenguajes simplificados como BASIC (o como los lenguajes basados en bloques gráficos de mas reciente aparición) que se  ''promocionan'' como lenguajes simples de aprender a causa de su reducido vocabulario, son sin embargo a causa de su escaso vocabulario, extremadamente complejos para poder crear programas que sean algo mas que ''código trivial'', creando lo que seymour \cite{seymour_papert_desafio_1987} llamo el ''fenómeno QWERTY'' por la historia del porque se adopto el tipo de teclado QWERTY en la época de las primeras maquinas de escribir mecánicas (que solían trabarse si se ponían cerca las teclas de uso mas común), pero aun después de la creación de las computadoras (cuando los problemas mecánicos de las maquinas de escribir ya no tenían significado) se siguió usando el teclado QWERTY por costumbre.
+
+\subsection{competencias especificas para el aprendizaje de un lenguaje de programación}
+
+Cuando hablamos de un lenguaje de programación (entendiendo este como un lenguaje formal de tipo especifico) para poder usarlo como herramienta de enseñanza, se necesitan tener en cuenta una serie de capacidades o características necesarias para poder ser considerado en una curricula educativa, en general podemos decir que un lenguaje de programación, debería tener las siguientes cualidades:
+
+\begin{enumerate}
+   \item Ser de alto nivel (similar a un lenguaje natural).
+   \item Ser un lenguaje de propósito general (la capacidad de crear cualquier programa).
+   \item Tener capacidad multi paradigma (programación orientada a objetos, programación estructurada, etc.).
+   \item Ser multi plataforma (capacidad de adaptarse a distintos dispositivos).
+ \end{enumerate} 
+ 
+También, es importante que un lenguaje de programación seleccionado para trabajar en el aula sea de uso común y extendido en la industria, no tanto por su éxito comercial momentáneo que puede variar en muy poco tiempo, si no por la capacidad de conseguir documentación especifica y comunidades de soporte que permitan desarrollar al máximo las capacidades intrínsecas de la herramienta.
+
+Hay que hacer una aclaración con los lenguajes de marcado (Como HTML) que no son lenguajes de programación propiamente dicho, dado que no tienen características básicas como:
+
+\begin{itemize}
+   \item variables
+   \item repeticiones
+   \item sentencias condicionales
+   \item recursividad
+ \end{itemize} 
+ 
+Si bien esta enumeración de características no es exhaustiva, si pone en manifiesto, que habiendo una enorme cantidad de lenguajes de programación, algunos de características mas especificas que otros, la elección del lenguaje de programación que se usara no es un asunto trivial.
+
 
 \section{Robótica y la enseñanza de programación}
 

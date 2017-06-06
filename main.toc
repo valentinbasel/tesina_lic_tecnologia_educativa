@@ -19,4 +19,5 @@
 \contentsline {section}{\numberline {2.2}Antecedentes}{19}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}ARDUINO\textsuperscript {\texttrademark } y la revoluci\IeC {\'o}n del hardware libre.}{20}{subsection.2.2.1}
 \contentsline {section}{\numberline {2.3}lenguajes de programaci\IeC {\'o}n en la ense\IeC {\~n}anza}{21}{section.2.3}
-\contentsline {section}{\numberline {2.4}Rob\IeC {\'o}tica y la ense\IeC {\~n}anza de programaci\IeC {\'o}n}{23}{section.2.4}
+\contentsline {subsection}{\numberline {2.3.1}competencias especificas para el aprendizaje de un lenguaje de programaci\IeC {\'o}n}{23}{subsection.2.3.1}
+\contentsline {section}{\numberline {2.4}Rob\IeC {\'o}tica y la ense\IeC {\~n}anza de programaci\IeC {\'o}n}{24}{section.2.4}
