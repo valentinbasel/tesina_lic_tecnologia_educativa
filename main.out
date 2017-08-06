@@ -1,22 +1,23 @@
-\BOOKMARK [1][-]{section.0.1}{Introducci\363n}{}% 1
-\BOOKMARK [0][-]{chapter.1}{Marco Teorico}{}% 2
-\BOOKMARK [1][-]{section.1.1}{Introducci\363n}{chapter.1}% 3
-\BOOKMARK [1][-]{section.1.2}{Soberan\355a tecnol\363gica}{chapter.1}% 4
-\BOOKMARK [1][-]{section.1.3}{Software libre}{chapter.1}% 5
-\BOOKMARK [2][-]{subsection.1.3.1}{Codigo fuente}{section.1.3}% 6
-\BOOKMARK [1][-]{section.1.4}{Hardware de especificaciones abiertas }{chapter.1}% 7
-\BOOKMARK [2][-]{subsection.1.4.1}{Software libre en la escuela}{section.1.4}% 8
-\BOOKMARK [1][-]{section.1.5}{Robots}{chapter.1}% 9
-\BOOKMARK [1][-]{section.1.6}{Rob\363tica educativa}{chapter.1}% 10
-\BOOKMARK [1][-]{section.1.7}{Construccionismo}{chapter.1}% 11
-\BOOKMARK [2][-]{subsection.1.7.1}{Lenguaje LOGO}{section.1.7}% 12
-\BOOKMARK [1][-]{section.1.8}{Ciencias de la computaci\363n}{chapter.1}% 13
-\BOOKMARK [1][-]{section.1.9}{Lenguajes formales}{chapter.1}% 14
-\BOOKMARK [2][-]{subsection.1.9.1}{python}{section.1.9}% 15
-\BOOKMARK [0][-]{chapter.2}{Rob\363tica educativa}{}% 16
-\BOOKMARK [1][-]{section.2.1}{Introducci\363n}{chapter.2}% 17
+\BOOKMARK [1][-]{section.0.1}{Introducción}{}% 1
+\BOOKMARK [0][-]{chapter.1}{Marco Teórico}{}% 2
+\BOOKMARK [1][-]{section.1.1}{Introducción}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.2}{Construccionismo}{chapter.1}% 4
+\BOOKMARK [2][-]{subsection.1.2.1}{Lenguaje\040LOGO}{section.1.2}% 5
+\BOOKMARK [1][-]{section.1.3}{Ciencias de la computación}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.4}{Lenguajes\040formales}{chapter.1}% 7
+\BOOKMARK [2][-]{subsection.1.4.1}{python}{section.1.4}% 8
+\BOOKMARK [1][-]{section.1.5}{Soberanía tecnológica}{chapter.1}% 9
+\BOOKMARK [1][-]{section.1.6}{Software\040libre}{chapter.1}% 10
+\BOOKMARK [2][-]{subsection.1.6.1}{Codigo\040fuente}{section.1.6}% 11
+\BOOKMARK [1][-]{section.1.7}{Hardware\040de\040especificaciones\040abiertas\040}{chapter.1}% 12
+\BOOKMARK [2][-]{subsection.1.7.1}{Software\040libre\040en\040la\040escuela}{section.1.7}% 13
+\BOOKMARK [1][-]{section.1.8}{Robots}{chapter.1}% 14
+\BOOKMARK [1][-]{section.1.9}{Robótica educativa}{chapter.1}% 15
+\BOOKMARK [0][-]{chapter.2}{Estado de la cuestión}{}% 16
+\BOOKMARK [1][-]{section.2.1}{Introducción}{chapter.2}% 17
 \BOOKMARK [1][-]{section.2.2}{Antecedentes}{chapter.2}% 18
-\BOOKMARK [2][-]{subsection.2.2.1}{ARDUINO\222 y la revoluci\363n del hardware libre.}{section.2.2}% 19
-\BOOKMARK [1][-]{section.2.3}{lenguajes de programaci\363n en la ense\361anza}{chapter.2}% 20
-\BOOKMARK [2][-]{subsection.2.3.1}{competencias especificas para el aprendizaje de un lenguaje de programaci\363n}{section.2.3}% 21
-\BOOKMARK [1][-]{section.2.4}{Rob\363tica y la ense\361anza de programaci\363n}{chapter.2}% 22
+\BOOKMARK [2][-]{subsection.2.2.1}{ARDUINO™ y la revolución del hardware libre.}{section.2.2}% 19
+\BOOKMARK [1][-]{section.2.3}{lenguajes de programación en la enseñanza}{chapter.2}% 20
+\BOOKMARK [2][-]{subsection.2.3.1}{competencias especificas para el aprendizaje de un lenguaje de programación}{section.2.3}% 21
+\BOOKMARK [1][-]{section.2.4}{Robótica y la enseñanza de programación}{chapter.2}% 22
+\BOOKMARK [0][-]{section.2.4}{Referencias}{}% 23

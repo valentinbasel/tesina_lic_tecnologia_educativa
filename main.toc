@@ -1,23 +1,24 @@
 \select@language {spanish}
-\contentsline {section}{\numberline {0.1}Introducci\IeC {\'o}n}{4}{section.0.1}
-\contentsline {chapter}{\numberline {1}Marco Teorico}{6}{chapter.1}
-\contentsline {section}{\numberline {1.1}Introducci\IeC {\'o}n}{6}{section.1.1}
-\contentsline {section}{\numberline {1.2}Soberan\IeC {\'\i }a tecnol\IeC {\'o}gica}{6}{section.1.2}
-\contentsline {section}{\numberline {1.3}Software libre}{7}{section.1.3}
-\contentsline {subsection}{\numberline {1.3.1}Codigo fuente}{7}{subsection.1.3.1}
-\contentsline {section}{\numberline {1.4}Hardware de especificaciones abiertas }{10}{section.1.4}
-\contentsline {subsection}{\numberline {1.4.1}Software libre en la escuela}{11}{subsection.1.4.1}
-\contentsline {section}{\numberline {1.5}Robots}{12}{section.1.5}
-\contentsline {section}{\numberline {1.6}Rob\IeC {\'o}tica educativa}{14}{section.1.6}
-\contentsline {section}{\numberline {1.7}Construccionismo}{15}{section.1.7}
-\contentsline {subsection}{\numberline {1.7.1}Lenguaje LOGO}{16}{subsection.1.7.1}
-\contentsline {section}{\numberline {1.8}Ciencias de la computaci\IeC {\'o}n}{17}{section.1.8}
-\contentsline {section}{\numberline {1.9}Lenguajes formales}{17}{section.1.9}
-\contentsline {subsection}{\numberline {1.9.1}python}{18}{subsection.1.9.1}
-\contentsline {chapter}{\numberline {2}Rob\IeC {\'o}tica educativa}{19}{chapter.2}
-\contentsline {section}{\numberline {2.1}Introducci\IeC {\'o}n}{19}{section.2.1}
-\contentsline {section}{\numberline {2.2}Antecedentes}{19}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}ARDUINO\textsuperscript {\texttrademark } y la revoluci\IeC {\'o}n del hardware libre.}{20}{subsection.2.2.1}
-\contentsline {section}{\numberline {2.3}lenguajes de programaci\IeC {\'o}n en la ense\IeC {\~n}anza}{21}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}competencias especificas para el aprendizaje de un lenguaje de programaci\IeC {\'o}n}{23}{subsection.2.3.1}
-\contentsline {section}{\numberline {2.4}Rob\IeC {\'o}tica y la ense\IeC {\~n}anza de programaci\IeC {\'o}n}{24}{section.2.4}
+\contentsline {section}{\numberline {0.1}Introducción}{5}{section.0.1}
+\contentsline {chapter}{\numberline {1}Marco Teórico}{7}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introducción}{7}{section.1.1}
+\contentsline {section}{\numberline {1.2}Construccionismo}{8}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Lenguaje LOGO}{9}{subsection.1.2.1}
+\contentsline {section}{\numberline {1.3}Ciencias de la computación}{11}{section.1.3}
+\contentsline {section}{\numberline {1.4}Lenguajes formales}{11}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}python}{12}{subsection.1.4.1}
+\contentsline {section}{\numberline {1.5}Soberanía tecnológica}{13}{section.1.5}
+\contentsline {section}{\numberline {1.6}Software libre}{14}{section.1.6}
+\contentsline {subsection}{\numberline {1.6.1}Codigo fuente}{14}{subsection.1.6.1}
+\contentsline {section}{\numberline {1.7}Hardware de especificaciones abiertas }{18}{section.1.7}
+\contentsline {subsection}{\numberline {1.7.1}Software libre en la escuela}{20}{subsection.1.7.1}
+\contentsline {section}{\numberline {1.8}Robots}{22}{section.1.8}
+\contentsline {section}{\numberline {1.9}Robótica educativa}{23}{section.1.9}
+\contentsline {chapter}{\numberline {2}Estado de la cuestión}{26}{chapter.2}
+\contentsline {section}{\numberline {2.1}Introducción}{26}{section.2.1}
+\contentsline {section}{\numberline {2.2}Antecedentes}{27}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}ARDUINO\textsuperscript {\texttrademark } y la revolución del hardware libre.}{27}{subsection.2.2.1}
+\contentsline {section}{\numberline {2.3}lenguajes de programación en la enseñanza}{28}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}competencias especificas para el aprendizaje de un lenguaje de programación}{32}{subsection.2.3.1}
+\contentsline {section}{\numberline {2.4}Robótica y la enseñanza de programación}{33}{section.2.4}
+\contentsline {chapter}{Referencias}{34}{section.2.4}

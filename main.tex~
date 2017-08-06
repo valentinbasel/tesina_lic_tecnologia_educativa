@@ -1,9 +1,14 @@
 \documentclass[a4paper,openright,openany,12pt]{book}
-
-
- \usepackage[hidelinks]{hyperref}
+%\renewcommand{\baselinestretch}{1.5} % interlineado 1,5
+ \usepackage{setspace}
+%\doublespacing
+%\onehalfspace
+%\singlespace
+\spacing{1.5} % espaciado
+\usepackage[hidelinks]{hyperref}
 \usepackage[spanish]{babel}
 \usepackage[utf8]{inputenc}
+
 \usepackage{chapterbib}
 \usepackage{graphicx} % graficos
 \usepackage{apacite}
@@ -24,8 +29,8 @@
 \newpage
 
 \input{introduccion}
-\input{marco_teorico}
-\input{estado_de_la_cuestion}
+%\input{marco_teorico}
+%\input{estado_de_la_cuestion}
 
 
 %\cleardoublepage
