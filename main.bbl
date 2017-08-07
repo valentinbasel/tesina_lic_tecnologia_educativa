@@ -317,6 +317,56 @@ Hart, T\BPBI D.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+L{\'o}pez~Ram{\'\i}rez%
+\ \BBA {} Andrade~Sosa%
+}{%
+L{\'o}pez~Ram{\'\i}rez%
+\ \BBA {} Andrade~Sosa%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+lopez2013aprendizaje}
+\APACinsertmetastar {%
+lopez2013aprendizaje}%
+\begin{APACrefauthors}%
+L{\'o}pez~Ram{\'\i}rez, P\BPBI A.%
+\BCBT {}\ \BBA {} Andrade~Sosa, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Aprendizaje con rob{\'o}tica, algunas experiencias}
+  {Aprendizaje con rob{\'o}tica, algunas experiencias}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Educaci{\'o}n}{37}{1}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Malec%
+}{%
+Malec%
+}{%
+{\protect \APACyear {2001}}%
+}]{%
+malec2001some}
+\APACinsertmetastar {%
+malec2001some}%
+\begin{APACrefauthors}%
+Malec, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2001}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Some thoughts on robotics for education} {Some thoughts
+  on robotics for education}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {2001 AAAI Spring Symposium on Robotics and Education.}
+  {2001 aaai spring symposium on robotics and education.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Marzal%
 , Llorens%
 \BCBL {}\ \BBA {} Gracia%

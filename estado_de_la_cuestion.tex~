@@ -117,3 +117,10 @@ Si bien esta enumeración de características no es exhaustiva, si pone en manif
 
 
 \section{Robótica y la enseñanza de programación}
+
+En la actualidad, el uso de robótica se esta extendiendo dentro de los espacios curriculares, los robots educativos se presentan como una alternativa interesante para poder trabajar conocimientos transversales a distintas disciplinas, desde la matemática y programación hasta las ciencias naturales. Sin embargo se podría decir que en donde mas se pueden aprovechar las ventajas de los kits de robótica que pululan en el mercado es precisamente en la enseñanza de los lenguajes de programación.
+
+Básicamente un robots es una computadora con sensores y actuadores que le permiten interactuar en un entorno físico, pero para lograr ese cometido el robot debe ser programado con un algoritmo que le permita resolver las situaciones complejas que pueden ocurrir mientras se mueve por un medio ambiente físico.
+A diferencia de lo que pasa en un entorno virtual como un simulador robotico, interactuar en un espació físico obliga al diseñador del algoritmo a tomar medidas de corrección y control mediante sensores y dotar al robot de cierta ''inteligencia'' para resolver situaciones inesperadas como fallas mecánicas o defectos de fabricación como cuando se usan componentes reciclados o de baja calidad.
+
+Por lo tanto un robot permite estudiar conceptos propios de los lenguajes de programación, 

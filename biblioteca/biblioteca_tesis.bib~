@@ -938,3 +938,32 @@ One of the most popular applications for robotics simulators is for 3D modeling 
   year={2010},
   publisher={Fundaci{\'o}n Universitaria Luis Amig{\'o}}
 }
+
+@book{marzal2004introduccion,
+  title={Introducci{\'o}n a la Programaci{\'o}n con Python y C},
+  author={Marzal, Andr{\'e}s and Luengo, Isabel Gracia},
+  year={2004},
+  publisher={Publicacions de la Universitat Jaume I}
+}
+
+@article{lopez2013aprendizaje,
+  title={Aprendizaje con rob{\'o}tica, algunas experiencias},
+  author={L{\'o}pez Ram{\'\i}rez, Pedro Antonio and Andrade Sosa, Hugo},
+  journal={Educaci{\'o}n},
+  volume={37},
+  number={1},
+  year={2013},
+  publisher={Universidad de Costa Rica}
+}
+@inproceedings{malec2001some,
+  title={Some thoughts on robotics for education},
+  author={Malec, Jacek},
+  booktitle={2001 AAAI Spring Symposium on Robotics and Education},
+  year={2001}
+}
+@article{calderonevolucion,
+  title={Evoluci{\'o}n del proceso educativo bajo el paradigma del internet de las cosas.},
+  author={Calder{\'o}n, Edwing Antonio Almeida and de la Torre, Marcela Buitr{\'o}n and Vargas, Georgina},
+  journal={RMDI},
+  pages={1}
+}

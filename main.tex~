@@ -5,19 +5,19 @@
 %\onehalfspace
 %\singlespace
 \spacing{1.5} % espaciado
-\usepackage[hidelinks]{hyperref}
+
+\usepackage[T1]{fontenc}
 \usepackage[spanish]{babel}
 \usepackage[utf8]{inputenc}
+\usepackage{lmodern}
 
+\usepackage[hidelinks]{hyperref}
 \usepackage{chapterbib}
 \usepackage{graphicx} % graficos
 \usepackage{apacite}
 \usepackage{natbib}
 \usepackage{wrapfig}
 \usepackage{listings} % para agregar coloreado al codigo fuente
-%\usepackage{fancyhdr} %para agregar una linea en el encabezado y el pie de pagina
-%\pagestyle{fancy} %usa el comando anterior para agregar el encabezado y pie de pagina en cada pagina
-%\setlength\parskip{\baselineskip} %agrega una separación entre parrafos de forma automatica
 
 \begin{document}
 \author{valentin Basel}
@@ -29,12 +29,12 @@
 \newpage
 
 \input{introduccion}
-%\input{marco_teorico}
-%\input{estado_de_la_cuestion}
+\input{marco_teorico}
+\input{estado_de_la_cuestion}
 
 
 %\cleardoublepage
-%\addcontentsline{toc}{chapter}{Bibliografía}
+\addcontentsline{toc}{chapter}{Referencias}
 \bibliographystyle{apacite} % estilo de la bibliografía.
 \bibliography{biblioteca/biblioteca_tesis} % yyyy.bib es el fichero donde está salvada la bibliografía.
 

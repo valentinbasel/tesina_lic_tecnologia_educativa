@@ -177,6 +177,8 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/lm/ec-lmbx10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/lm/ec-lmbx7.tfm
 INPUT figuras/Arduino_Uno_-_R3.jpg
 INPUT figuras/lego_mindstorm.jpg
+INPUT proyecto_educativo_tecnologico.tex
+INPUT proyecto_educativo_tecnologico.tex
 INPUT main.bbl
 INPUT main.bbl
 INPUT /usr/share/texlive/texmf-dist/tex/latex/lm/t1lmtt.fd
