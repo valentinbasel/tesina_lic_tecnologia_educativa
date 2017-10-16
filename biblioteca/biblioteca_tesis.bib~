@@ -967,3 +967,16 @@ One of the most popular applications for robotics simulators is for 3D modeling 
   journal={RMDI},
   pages={1}
 }
+@inproceedings{bareno2011metodologia,
+  title={Metodolog{\'\i}a para la transferencia tecnol{\'o}gica en la industria electr{\'o}nica basada en software libre y hardware copyleft},
+  author={Bare{\~n}o, CI Camargo},
+  booktitle={de xvii Workshop de Iberchip, Bogot{\'a}, Colombia},
+  year={2011}
+}
+
+@inproceedings{frittelli2012elementos,
+  title={Elementos de rob{\'o}tica: transferencia en Tecnolog{\'\i}a Educativa al Nivel Medio},
+  author={Frittelli, Valerio and Osimani, Cesar and Funes, Gustavo A and Gerem{\'\i}a, Waldo and Reyes, Diego and Aranda, Mario and Blanco, MJ and Oliver, Nicol{\'a}s},
+  booktitle={XIV Workshop de Investigadores en Ciencias de la Computaci{\'o}n},
+  year={2012}
+}

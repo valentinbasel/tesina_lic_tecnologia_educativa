@@ -1,15 +1,24 @@
 \documentclass[a4paper,openright,openany,12pt]{book}
 %\renewcommand{\baselinestretch}{1.5} % interlineado 1,5
+
+\usepackage{xcolor} % Required for specifying colors by name
+\definecolor{ocre}{RGB}{243,102,25} % Define the orange color used for highlighting throughout the book
+
+
  \usepackage{setspace}
+ \usepackage{float}
 %\doublespacing
 %\onehalfspace
 %\singlespace
 \spacing{1.5} % espaciado
 
-\usepackage[T1]{fontenc}
+\usepackage[T1]{fontenc} % con esto me reconoce los acentos
 \usepackage[spanish]{babel}
 \usepackage[utf8]{inputenc}
-\usepackage{lmodern}
+
+% Font Settings
+\usepackage{mathptmx} % Use the Avantgarde font for headings
+%\usepackage{lmodern}
 
 \usepackage[hidelinks]{hyperref}
 \usepackage{chapterbib}
@@ -18,21 +27,37 @@
 \usepackage{natbib}
 \usepackage{wrapfig}
 \usepackage{listings} % para agregar coloreado al codigo fuente
+\usepackage[
+            type={CC},
+            modifier={by-sa},
+            version={4.0},
+            ]{doclicense}
 
+\newcommand{\grad}{$^{\circ} $}
 \begin{document}
 \author{valentin Basel}
 \title{Robótica y educación popular}
 
 \input{portada}
+
+~\vfill
+\thispagestyle{empty}
+\noindent \doclicenseThis
+
+%\noindent 
+
+
 %\input{dedicatoria}
+\input{referencia}
+
 \tableofcontents % indice de contenidos
 \newpage
 
 \input{introduccion}
 \input{marco_teorico}
 \input{estado_de_la_cuestion}
-
-
+\input{proyecto_educativo_tecnologico}
+%\input{ud1}
 %\cleardoublepage
 \addcontentsline{toc}{chapter}{Referencias}
 \bibliographystyle{apacite} % estilo de la bibliografía.

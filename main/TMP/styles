@@ -1,0 +1,13 @@
+book a4paper, openright, openany, 12pt,
+setspace 
+fontenc T1
+babel spanish
+inputenc utf8
+lmodern 
+hyperref hidelinks
+chapterbib 
+graphicx 
+apacite 
+natbib 
+wrapfig 
+listings 

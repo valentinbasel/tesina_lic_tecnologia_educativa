@@ -1,0 +1,33 @@
+\documentclass[a4paper,openright,openany,12pt]{book}
+%\renewcommand{\baselinestretch}{1.5} % interlineado 1,5
+ \usepackage{setspace}
+%\doublespacing
+%\onehalfspace
+\singlespace
+%\spacing{1.5} % espaciado
+
+\usepackage[T1]{fontenc}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+
+\usepackage[hidelinks]{hyperref}
+\usepackage{chapterbib}
+\usepackage{graphicx} % graficos
+\usepackage{apacite}
+\usepackage{natbib}
+\usepackage{wrapfig}
+\usepackage{listings} % para agregar coloreado al codigo fuente
+\usepackage[
+    type={CC},
+    modifier={by-sa},
+    version={4.0},
+]{doclicense}
+\begin{document}
+\author{valentin Basel}
+\title{Robótica y educación popular}
+
+%\input{portada}
+\input{ud1}
+%\cleardoublepage
+\end{document}

@@ -2,24 +2,34 @@
 \BOOKMARK [0][-]{chapter.1}{Marco Teórico}{}% 2
 \BOOKMARK [1][-]{section.1.1}{Introducción}{chapter.1}% 3
 \BOOKMARK [1][-]{section.1.2}{Construccionismo}{chapter.1}% 4
-\BOOKMARK [2][-]{subsection.1.2.1}{Lenguaje\040LOGO}{section.1.2}% 5
-\BOOKMARK [1][-]{section.1.3}{Ciencias de la computación}{chapter.1}% 6
-\BOOKMARK [1][-]{section.1.4}{Lenguajes\040formales}{chapter.1}% 7
-\BOOKMARK [2][-]{subsection.1.4.1}{python}{section.1.4}% 8
-\BOOKMARK [1][-]{section.1.5}{Soberanía tecnológica}{chapter.1}% 9
-\BOOKMARK [1][-]{section.1.6}{Software\040libre}{chapter.1}% 10
-\BOOKMARK [2][-]{subsection.1.6.1}{Codigo\040fuente}{section.1.6}% 11
-\BOOKMARK [1][-]{section.1.7}{Hardware\040de\040especificaciones\040abiertas\040}{chapter.1}% 12
-\BOOKMARK [2][-]{subsection.1.7.1}{Software\040libre\040en\040la\040escuela}{section.1.7}% 13
-\BOOKMARK [1][-]{section.1.8}{Robots}{chapter.1}% 14
-\BOOKMARK [1][-]{section.1.9}{Robótica educativa}{chapter.1}% 15
-\BOOKMARK [0][-]{chapter.2}{Estado de la cuestión}{}% 16
-\BOOKMARK [1][-]{section.2.1}{Introducción}{chapter.2}% 17
-\BOOKMARK [1][-]{section.2.2}{Antecedentes}{chapter.2}% 18
-\BOOKMARK [2][-]{subsection.2.2.1}{ARDUINO™ y la revolución del hardware libre.}{section.2.2}% 19
+\BOOKMARK [1][-]{section.1.3}{Ciencias de la computación}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.4}{Lenguajes\040formales}{chapter.1}% 6
+\BOOKMARK [2][-]{subsection.1.4.1}{Python}{section.1.4}% 7
+\BOOKMARK [1][-]{section.1.5}{Soberanía tecnológica}{chapter.1}% 8
+\BOOKMARK [1][-]{section.1.6}{Software\040libre}{chapter.1}% 9
+\BOOKMARK [2][-]{subsection.1.6.1}{Código fuente}{section.1.6}% 10
+\BOOKMARK [1][-]{section.1.7}{Hardware\040de\040especificaciones\040abiertas\040}{chapter.1}% 11
+\BOOKMARK [2][-]{subsection.1.7.1}{Software\040libre\040en\040la\040escuela}{section.1.7}% 12
+\BOOKMARK [1][-]{section.1.8}{Robots}{chapter.1}% 13
+\BOOKMARK [1][-]{section.1.9}{Robótica educativa}{chapter.1}% 14
+\BOOKMARK [0][-]{chapter.2}{Estado de la cuestión}{}% 15
+\BOOKMARK [1][-]{section.2.1}{Introducción}{chapter.2}% 16
+\BOOKMARK [1][-]{section.2.2}{Antecedentes}{chapter.2}% 17
+\BOOKMARK [2][-]{subsection.2.2.1}{Lenguaje\040LOGO}{section.2.2}% 18
+\BOOKMARK [2][-]{subsection.2.2.2}{ARDUINO™ y la revolución del hardware libre.}{section.2.2}% 19
 \BOOKMARK [1][-]{section.2.3}{lenguajes de programación en la enseñanza}{chapter.2}% 20
-\BOOKMARK [2][-]{subsection.2.3.1}{competencias especificas para el aprendizaje de un lenguaje de programación}{section.2.3}% 21
+\BOOKMARK [2][-]{subsection.2.3.1}{Competencias especificas para el aprendizaje de un lenguaje de programación}{section.2.3}% 21
 \BOOKMARK [1][-]{section.2.4}{Robótica y la enseñanza de programación}{chapter.2}% 22
-\BOOKMARK [0][-]{chapter.3}{Proyecto educativo tecnológico}{}% 23
+\BOOKMARK [0][-]{chapter.3}{Proyecto\040de\040transferencia}{}% 23
 \BOOKMARK [1][-]{section.3.1}{Introducción}{chapter.3}% 24
-\BOOKMARK [0][-]{section.3.1}{Referencias}{}% 25
+\BOOKMARK [1][-]{section.3.2}{Justificación}{chapter.3}% 25
+\BOOKMARK [1][-]{section.3.3}{objetivos}{chapter.3}% 26
+\BOOKMARK [1][-]{section.3.4}{licencias}{chapter.3}% 27
+\BOOKMARK [1][-]{section.3.5}{metodologia}{chapter.3}% 28
+\BOOKMARK [1][-]{section.3.6}{Capacitación}{chapter.3}% 29
+\BOOKMARK [1][-]{section.3.7}{duración}{chapter.3}% 30
+\BOOKMARK [1][-]{section.3.8}{gantt}{chapter.3}% 31
+\BOOKMARK [1][-]{section.3.9}{requerimientos\040para\040el\040laboratorio\040de\040desarrollo}{chapter.3}% 32
+\BOOKMARK [1][-]{section.3.10}{herramientas}{chapter.3}% 33
+\BOOKMARK [1][-]{section.3.11}{laboratorio\040informatico}{chapter.3}% 34
+\BOOKMARK [0][-]{Item.30}{Referencias}{}% 35

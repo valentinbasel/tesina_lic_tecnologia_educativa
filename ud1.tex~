@@ -1,0 +1,91 @@
+%\chapter*{Secuencia didáctica}
+\section*{Planificación de clase Numero: 1}
+\subsubsection{Temática}
+Introducción a la robótica, armado modulo 1 placa ICARO
+\subsubsection{Tiempo}
+3 Horas
+\subsubsection{NAP}
+
+(aca pongo el nap).
+
+\subsubsection{Resumen}
+
+La actividad se basa en dar una breve introducción al mundo de los sistemas de automatización y robótica, presentar el proyecto ICARO, reconocer los distinto componentes electrónicos que se usaran durante el taller y comenzar con el ensamblado del modulo 1 y 2 de la guiá de construcción del hardware icaro.
+
+\subsubsection{Objetivos}
+que los participantes logren:
+\begin{itemize}
+  \item Identificar los distintos tipos de robots y sus aplicaciones.
+  \item Reconocer los conceptos de sensores y actuadores en un robot o sistema de automatización.
+  \item Iniciar a los participantes en Las propiedades del proyecto ICARO e identificar los distintos componentes del mismo.
+  \item Identificar componentes electrónicos necesarios para montar el modulo 1 y 2 del hardware ICARO
+  \item Desarrollar habilidades para la manipulación de las herramientas necesarias para el ensamblado del hardware ICARO (lápiz soldador de estaño, pinzas, cutter).
+  \end{itemize}
+
+\subsubsection{actividades}
+inicio:
+\begin{itemize}
+  \item Introducción al mundo de los sistemas de automatización y robótica mediante un presentación y actividad indagatoria.
+  \item Entrega de los materiales necesarios para el armado del modulo 1 y 2 del hardware ICARO.
+  \item comentarios para el uso seguro del soldador de estaño.
+\end{itemize}
+desarrollo:
+\begin{itemize}
+  \item Prueba de soldadura con estaño.
+  \item Identificación de los componentes.
+  \item Soldar los componentes del modulo 1 y 2.
+  \item Cargar el bootloader en el micro controlador 18f4550.
+  \item Probar conexión con la computadora (comandos lsub y dmesg).
+  \item Cargar firmware ''ejemplo\_01.icr'' del software icaro\_bloques.
+  \item Medir con el multimetro (punta logica) si hay señal en el puerto B (salidas UNL2803).
+
+\end{itemize}
+
+\subsubsection{metodologia}
+
+Luego de la introducción y de repartir los competentes electrónicos, se explica a los participantes como usar el soldador de estaño con recomendaciones para evitar accidentes, después se procede a armar el modulo 1 y 2 del Anexo 2 para armado de las placas np07 de ICARO, los módulos 1 y 2 del Anexo 2 están pensados para poder ir soldando los componentes específicos y necesarios para poder arrancar el micro controlador, en cada paso se explicaran la utilidad que tiene cada componente (resistencias, Condensadores eléctricos, cristal oscilador), si bien no es un taller especifico de electrónica, la idea principal es poder entender el funcionamiento básico del hardware propuesto.
+
+Este taller inicial plantea poder ''perder el miedo'' al trabajo con electrónica, soldar y manipular componentes, por tanto la mecánica de trabajo apunta a aprender la psico-motricidad fina necesaria para poder soldar. 
+
+\subsubsection{recursos}
+El aula:
+\begin{itemize}
+  \item Mesa adecuada para trabajar, una mesa por cada 4 participantes.
+  \item Zapatillas eléctricas, una por mesa de trabajo.
+\end{itemize}
+El espacio de trabajo tiene que ser amplio, ventilado y con buena iluminación para poder trabajar y poder tener espacio para manipular los soldadores de estaño.    
+
+para el docente:
+\begin{itemize}
+  \item proyector
+  \item computadora con sistema ICARO instalado
+\end{itemize}
+para los participantes:
+\begin{itemize}
+  \item Soldador de estaño.
+  \item Estaño.
+  \item Pinza cutter.
+  \item Computadora con el software ICARO instalado.
+  \item Cable usb impresora (con conector tipo B).
+  \item Multimetro.
+  \item Des soldador.
+  \item Esponja humedecida para limpiar el soldador
+  \item Componentes electrónicos para soldar modulo 1 y 2 placa ICARO (Anexo 2) 
+\end{itemize}
+
+\subsubsection{recomendaciones}
+
+\begin{itemize}
+  \item Preparar el laboratorio por lo menos 30 minutos antes de empezar el taller y calentar los soldadores.
+
+  \item Limpiar la punta de los soldadores y aplicar una pelicula de estaño (en caso de los soldadores de punta metálica).
+
+  \item Separar los componentes electrónicos a utilizar en el taller y repartir entre las mesas de trabajo.
+
+\end{itemize}
+%\subsubsection{matriz de evaluación}
+%bla
+\subsubsection{anexos}
+\begin{itemize}
+  \item Anexo 2 para el armado de la placa ICARO NP07 (modulo 1 y 2).
+\end{itemize}

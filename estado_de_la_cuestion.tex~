@@ -10,11 +10,38 @@ Podemos decir que las ciencias de la computación \citep[pág 4]{sadosky2013cc} 
 
 \section{Antecedentes}
 
-El uso de dispositivos robots para enseñanza, tiene su origen en el trabajo de Seymour Papert, y su desarrollo del lenguaje LOGO. Este lenguaje accionaba un robot con forma de tortuga (de ahi que el logotipo de LOGO sea una tortuga), el cual se movía sobre una superficie plana dibujando en función de las instrucciones previamente creadas en la computadora que los discentes usaban. Basado en ese esquema, los discentes programan en lenguaje LOGO (un lenguaje muy parecido en su forma al lenguaje LISP), luego activan el robot tortuga y la computadora enviá las ordenes para que este se mueva, dibujando sobre un papel. 
+\subsection{Lenguaje LOGO}
+El uso de dispositivos robots para enseñanza, tiene su origen en el trabajo de Seymour Papert, y su desarrollo del lenguaje LOGO. Este lenguaje formal \citet{giro_lenguaje_2015} fue diseñado para poder trabajar conceptos de matemáticas y geometria mediante la interacci[on con un robot con forma de tortuga (de ahi que el logotipo de LOGO sea una tortuga), el cual se movía sobre una superficie plana dibujando en función de las instrucciones previamente creadas en la computadora que los discentes usaban. Basado en ese esquema, los discentes programan en lenguaje LOGO (un lenguaje muy parecido en su forma al lenguaje LISP), luego activan el robot tortuga y la computadora enviá las ordenes para que este se mueva, dibujando sobre un papel. 
 
 A través de esa experiencia, Papert colabora con la empresa LEGO para fabricar el producto LEGO/LOGO, el cual después pasaría a ser conocido como LEGO MINDSTORM\textsuperscript{\texttrademark}, una plataforma física basada en fichas LEGO\textsuperscript{\textregistered} que también incluye hardware de adquisición de datos capas de leer sensores y trabajar sobre diversos actuadores, y permite interconectar todo para lograr diversos robots.
 
 Con el tiempo lenguaje LOGO abandonaría la tortuga robot principalmente por razones presupuestarias, el abaratamiento de las micro computadoras (por ej. COMMODORE\textsuperscript{\textregistered} c64) con capacidad de procesar gráficos a color y el elevado costo de cada robot tortuga, hicieron que fuera muy difícil implementar una curricula basada en LOGO solamente con el uso del robot tortuga.
+
+\begin{wrapfigure}{R}{0.5\textwidth}
+  \begin{center}
+    \includegraphics[width=0.5\textwidth]{figuras/logo_robot.jpg}
+    \caption[Caption for LOF]{robot 'tortuga' original diseñado por el M.I.T}
+    
+    \label{fig:tortuga_mit}
+  \end{center}
+\end{wrapfigure}
+
+El lenguaje LOGO esta diseñado para ser sencillo de aprender, con instrucciones (''primitivas'' en el argot LOGO) que son intuitivas para el usuario (la palabra 'adelante', hace que la tortuga avance N pasos,  al igual que ''atrás'' hace que retroceda) y sin embargo sigue siendo un lenguaje de programación completo y capaz de hacer lo mismo que otros lenguajes de propósito general  (como C, FORTRAN u otros lenguajes de la época). 
+
+Una de las ventajas de LOGO es su facilidad de poder hacer ''algo'' con muy pocas lineas de código (típicamente algún dibujo con la ''tortuguita''), \cite{seymour_papert_desafio_1987} plantea que cualquier niño, bajo las condiciones adecuadas, puede aprender un lenguaje de programación como LOGO.
+
+Originalmente, las primeras pruebas de LOGO se hicieron con robots como el de la figura \ref{fig:tortuga_mit}, el cual estaba pensado para ser robusto, y capaz de soportar hasta el peso de un niño encima. Las computadoras de la época no tenían capacidad de procesar gráficos de alta definición (y las impresoras eran caras y de uso casi exclusivo en las empresas), por lo tanto la ventaja de un robot eran muy interesantes.
+
+\begin{wrapfigure}{R}{0.5\textwidth}
+  \begin{center}
+    \includegraphics[width=0.5\textwidth]{figuras/turtle_with_apple.JPG}
+    \caption[Caption for LOF]{Version 'mini' del robot tortuga controlado por un micro computador Apple}
+    
+    \label{fig:tortuga_2}
+  \end{center}
+\end{wrapfigure}
+
+Con el advenimiento de las micro computadoras (como las ZX spectrum\textsuperscript{\texttrademark}  y las commodores\textsuperscript{\texttrademark} C64), que contaban con la capacidad de trabajar  en monitores a color (o en los televisores CRT de la época) y gracias a su bajo costo de adquisición, se dejo de utilizar los robots tortuga, para directamente trabajar con el lenguaje de programación LOGO y una ''tortuga virtual'', menos llamativa pero mucho mas barato de adquirir para los colegios. 
 
 \subsection{ARDUINO\textsuperscript{\texttrademark} y la revolución del hardware libre.} 
 
@@ -25,7 +52,7 @@ Actualmente los miles de kits para enseñanza de robótica que se diseñan y fab
 
 \begin{wrapfigure}{r}{0.5\textwidth}
   \begin{center}
-    \includegraphics[width=0.4\textwidth]{figuras/Arduino_Uno_-_R3.jpg}
+    \includegraphics[width=0.5\textwidth]{figuras/Arduino_Uno_-_R3.jpg}
     \caption[Caption for LOF]{Arduino\textsuperscript{\texttrademark} Uno Rev. 3}
        
     \label{fig:arduinouno }
@@ -65,16 +92,6 @@ Por otro lado las ciencias de la computación permite fomentar habilidades que p
 
 De esta forma la enseñanza de un lenguaje formal toma una particular importancia dentro de el esquema educativo actual, que busca resolver los problemas planteados por la necesidad de alfabetizar digitalmente a la población.
 
- 
- \begin{wrapfigure}{r}{0.5\textwidth}
-  \begin{center}
-    \includegraphics[width=0.4\textwidth]{figuras/lego_mindstorm.jpg}
-    \caption[Caption for LOF]{Robot LEGO\textsuperscript{\textregistered} MINDSTORM\textsuperscript{\textregistered}}
-       
-    \label{fig:legomindstorm }
-  \end{center}
-\end{wrapfigure}
-
 Sin embargo, hay criticas concretas a la enseñanza del ''pensamiento algorritmico'' en contra de una enseñanza de lenguajes formales específicos. La idea de pensamiento algorítmico es que se puede aprender conceptos de programación a través de metas lenguajes, o lenguajes pedagógicos (pseudo código o sistemas basados en diagramas y gráficos). Desde esa perspectiva, un lenguaje educativo permitiría simplificar el contenido técnico complejo, permitiendo abordar de forma escalonada el aprendizaje de la ciencia computacional.
 
 Por otro lado, como critica a ese modelo, \cite{dijkstra2010que} plantean que la ''simplificación'' de un lenguaje formal con pseudo código o con lenguajes ''de juguete'' (como el caso del lenguaje BASIC en su momento) pueden ser mas  contraproducentes que beneficioso. en dichos del propio dijkstra:
@@ -89,7 +106,15 @@ lo que se puede traducir como:
 \textit{Es prácticamente imposible enseñar una buena programación a los estudiantes que han tenido una exposición previa a BASIC: como programadores potenciales son mentalmente mutilados más allá de la esperanza de regeneración.}
 \end{center}
 
-seymour \cite{seymour_papert_desafio_1987} plantea que los lenguajes simplificados como BASIC (o como los lenguajes basados en bloques gráficos de mas reciente aparición) que se  ''promocionan'' como lenguajes simples de aprender a causa de su reducido vocabulario, son sin embargo a causa de su escaso vocabulario, extremadamente complejos para poder crear programas que sean algo mas que ''código trivial'', creando lo que seymour \cite{seymour_papert_desafio_1987} llamo el ''fenómeno QWERTY'' por la historia del porque se adopto el tipo de teclado QWERTY en la época de las primeras maquinas de escribir mecánicas (que solían trabarse si se ponían cerca las teclas de uso mas común), pero aun después de la creación de las computadoras (cuando los problemas mecánicos de las maquinas de escribir ya no tenían significado) se siguió usando el teclado QWERTY por costumbre.
+seymour \cite{seymour_papert_desafio_1987} plantea que los lenguajes simplificados como BASIC (o como los lenguajes basados en bloques gráficos de mas reciente aparición) que se  ''promocionan'' como lenguajes simples de aprender a causa de su reducido vocabulario, son sin embargo extremadamente complejos den usar para crear programas que sean algo mas que ''código trivial'', fenomeno al que seymour \cite{seymour_papert_desafio_1987} se refiere como el ''fenómeno QWERTY'', a causa de los teclados tipo QWERTY, que fueron diseñados en la época de las primeras maquinas de escribir mecánicas (que solían trabarse si se ponían cerca las teclas de uso mas común), y sin embargo aun después de la creación de las computadoras (cuando los problemas mecánicos de las maquinas de escribir ya no tenían significado) se siguió usando ese mismo sistema mas que nada por costumbre.
+
+ \begin{wrapfigure}{R}{0.5\textwidth}
+  \begin{center}
+    \includegraphics[width=0.5\textwidth]{figuras/lego_mindstorm.jpg}
+    \caption[Caption for LOF]{Robot LEGO\textsuperscript{\textregistered} MINDSTORM\textsuperscript{\textregistered}}
+    \label{fig:legomindstorm }
+  \end{center}
+\end{wrapfigure}
 
 \subsection{competencias especificas para el aprendizaje de un lenguaje de programación}
 
@@ -123,4 +148,6 @@ En la actualidad, el uso de robótica se esta extendiendo dentro de los espacios
 Básicamente un robots es una computadora con sensores y actuadores que le permiten interactuar en un entorno físico, pero para lograr ese cometido el robot debe ser programado con un algoritmo que le permita resolver las situaciones complejas que pueden ocurrir mientras se mueve por un medio ambiente físico.
 A diferencia de lo que pasa en un entorno virtual como un simulador robotico, interactuar en un espació físico obliga al diseñador del algoritmo a tomar medidas de corrección y control mediante sensores y dotar al robot de cierta ''inteligencia'' para resolver situaciones inesperadas como fallas mecánicas o defectos de fabricación como cuando se usan componentes reciclados o de baja calidad.
 
-Por lo tanto un robot permite estudiar conceptos propios de los lenguajes de programación, 
+Por otro lado es importante hacer una distinción entre ''aprendizaje DE robótica '' y ''aprendizaje CON robótica'' \citep{malec2001some}, entendiendo que la robótica es una disciplina en si misma, y su uso en la industria tiene un nivel de complejidad que requiere un grado de especialización extra para los técnicos e ingenieros que trabajen en ese ámbito. Por lo tanto el aprendizaje con robots, debería ser pensado como un medio para facilitar la construcción por parte de los discentes de conocimientos transversales, adaptando las complejidades inherentes al diseño y construcción de un robot, para que sea posible  se puede decir entonces que la propuesta de aprendizaje de la robótica debe definir elementos básicos necesarios
+para desarrollar en los estudiantes competencias tales como: la toma de decisiones basadas en
+el conocimiento, el formular explicaciones científicas y el trabajo en equipo \citep{lopez2013aprendizaje}.

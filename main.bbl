@@ -28,6 +28,32 @@ Adell, J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Bare{\~n}o%
+}{%
+Bare{\~n}o%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+bareno2011metodologia}
+\APACinsertmetastar {%
+bareno2011metodologia}%
+\begin{APACrefauthors}%
+Bare{\~n}o, C\BPBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Metodolog{\'\i}a para la transferencia tecnol{\'o}gica
+  en la industria electr{\'o}nica basada en software libre y hardware copyleft}
+  {Metodolog{\'\i}a para la transferencia tecnol{\'o}gica en la industria
+  electr{\'o}nica basada en software libre y hardware copyleft}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {de xvii Workshop de Iberchip, Bogot{\'a}, Colombia.} {de
+  xvii workshop de iberchip, bogot{\'a}, colombia.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 {Beatriz Busaniche}%
 }{%
 {Beatriz Busaniche}%
@@ -583,11 +609,11 @@ Sadosky, F.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Sanchez%
-\ \BBA {} Guzman%
+S{\'A}nchez%
+\ \BBA {} Guzm{\'a}n%
 }{%
-Sanchez%
-\ \BBA {} Guzman%
+S{\'A}nchez%
+\ \BBA {} Guzm{\'a}n%
 }{%
 {\protect \APACyear {2012}}%
 }]{%
@@ -595,8 +621,8 @@ sanchez_robotica_2012}
 \APACinsertmetastar {%
 sanchez_robotica_2012}%
 \begin{APACrefauthors}%
-Sanchez, F\BPBI A\BPBI B.%
-\BCBT {}\ \BBA {} Guzman, A\BPBI F.%
+S{\'A}nchez, F\BPBI A\BPBI B.%
+\BCBT {}\ \BBA {} Guzm{\'a}n, A\BPBI F.%
 \end{APACrefauthors}%
 \unskip\
 \newblock

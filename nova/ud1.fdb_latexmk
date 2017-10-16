@@ -1,0 +1,13 @@
+# Fdb version 3
+["xdvipdfmx"] 0 "ud1.xdv" "ud1.pdf" "ud1" 0
+  "ud1.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "ud1.pdf"
+["xelatex"] 1504623130 "ud1.tex" "ud1.xdv" "ud1" 1504623130
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1495587079 31949 3ae02a131d161fd383f5b89f8ad0930c ""
+  "/usr/share/texlive/texmf-var/web2c/xetex/xelatex.fmt" 1500772509 3469071 dab3a4146c21b1cab496bb3250db24f3 ""
+  "ud1.aux" 1503585170 8 a94a2480d3289e625eea47cd1b285758 ""
+  "ud1.tex" 1504623129 4591 367d28e05e037f6f1f104651bd8761b5 ""
+  (generated)
+  "ud1.xdv"
+  "ud1.log"

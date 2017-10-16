@@ -1,0 +1,39 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi 
+\doTocEntry\tocsection{0.1}{\csname a:TocLink\endcsname{1}{x1-10000.1}{QQ2-1-1}{Introducci\IeC {\'o}n}}{5}\relax 
+\doTocEntry\tocchapter{1}{\csname a:TocLink\endcsname{1}{x1-20001}{QQ2-1-2}{Marco Te\IeC {\'o}rico}}{7}\relax 
+\doTocEntry\tocsection{1.1}{\csname a:TocLink\endcsname{1}{x1-30001.1}{QQ2-1-3}{Introducci\IeC {\'o}n}}{7}\relax 
+\doTocEntry\tocsection{1.2}{\csname a:TocLink\endcsname{1}{x1-40001.2}{QQ2-1-4}{Construccionismo}}{7}\relax 
+\doTocEntry\toclof{1.1}{\csname a:TocLink\endcsname{1}{x1-40011}{}{\ignorespaces Caption for LOF}}{figure}\relax 
+\doTocEntry\tocsubsection{1.2.1}{\csname a:TocLink\endcsname{1}{x1-50001.2.1}{QQ2-1-6}{Lenguaje LOGO}}{9}\relax 
+\doTocEntry\toclof{1.2}{\csname a:TocLink\endcsname{1}{x1-50012}{}{\ignorespaces Caption for LOF}}{figure}\relax 
+\doTocEntry\toclof{1.3}{\csname a:TocLink\endcsname{1}{x1-50023}{}{\ignorespaces Caption for LOF}}{figure}\relax 
+\doTocEntry\tocsection{1.3}{\csname a:TocLink\endcsname{1}{x1-60001.3}{QQ2-1-9}{Ciencias de la computaci\IeC {\'o}n}}{11}\relax 
+\doTocEntry\tocsection{1.4}{\csname a:TocLink\endcsname{1}{x1-70001.4}{QQ2-1-10}{Lenguajes formales}}{11}\relax 
+\doTocEntry\tocsubsection{1.4.1}{\csname a:TocLink\endcsname{1}{x1-80001.4.1}{QQ2-1-11}{python}}{12}\relax 
+\doTocEntry\toclof{1.4}{\csname a:TocLink\endcsname{1}{x1-80014}{}{\ignorespaces Caption for LOF}}{figure}\relax 
+\doTocEntry\tocsection{1.5}{\csname a:TocLink\endcsname{1}{x1-90001.5}{QQ2-1-13}{Soberan\IeC {\'\i }a tecnol\IeC {\'o}gica}}{14}\relax 
+\doTocEntry\tocsection{1.6}{\csname a:TocLink\endcsname{1}{x1-100001.6}{QQ2-1-14}{Software libre}}{15}\relax 
+\doTocEntry\tocsubsection{1.6.1}{\csname a:TocLink\endcsname{1}{x1-110001.6.1}{QQ2-1-15}{Codigo fuente}}{16}\relax 
+\doTocEntry\toclot{1.1}{\csname a:TocLink\endcsname{1}{x1-110081}{}{\ignorespaces Lenguajes de programaci\IeC {\'o}n, comparaci\IeC {\'o}n entre c\IeC {\'o}digo fuente y c\IeC {\'o}digo m\IeC {\'a}quina}}{table}\relax 
+\doTocEntry\toclof{1.5}{\csname a:TocLink\endcsname{1}{x1-110095}{}{\ignorespaces Logotipo del Free Software Foundation}}{figure}\relax 
+\doTocEntry\tocsection{1.7}{\csname a:TocLink\endcsname{1}{x1-120001.7}{QQ2-1-18}{Hardware de especificaciones abiertas }}{22}\relax 
+\doTocEntry\toclof{1.6}{\csname a:TocLink\endcsname{1}{x1-120016}{}{\ignorespaces Logotipo del Open Source Hardware}}{figure}\relax 
+\doTocEntry\toclof{1.7}{\csname a:TocLink\endcsname{1}{x1-120037}{}{\ignorespaces Caption for LOF}}{figure}\relax 
+\doTocEntry\tocsubsection{1.7.1}{\csname a:TocLink\endcsname{1}{x1-130001.7.1}{QQ2-1-21}{Software libre en la escuela}}{25}\relax 
+\doTocEntry\tocsection{1.8}{\csname a:TocLink\endcsname{1}{x1-140001.8}{QQ2-1-22}{Robots}}{26}\relax 
+\doTocEntry\toclof{1.8}{\csname a:TocLink\endcsname{1}{x1-140018}{}{\ignorespaces Caption for LOF}}{figure}\relax 
+\doTocEntry\tocsection{1.9}{\csname a:TocLink\endcsname{1}{x1-150001.9}{QQ2-1-24}{Rob\IeC {\'o}tica educativa}}{29}\relax 
+\doTocEntry\tocchapter{2}{\csname a:TocLink\endcsname{1}{x1-160002}{QQ2-1-25}{Estado de la cuesti\IeC {\'o}n}}{31}\relax 
+\doTocEntry\tocsection{2.1}{\csname a:TocLink\endcsname{1}{x1-170002.1}{QQ2-1-26}{Introducci\IeC {\'o}n}}{31}\relax 
+\doTocEntry\tocsection{2.2}{\csname a:TocLink\endcsname{1}{x1-180002.2}{QQ2-1-27}{Antecedentes}}{31}\relax 
+\doTocEntry\tocsubsection{2.2.1}{\csname a:TocLink\endcsname{1}{x1-190002.2.1}{QQ2-1-28}{ARDUINO\textsuperscript  {\texttrademark } y la revoluci\IeC {\'o}n del hardware libre.}}{32}\relax 
+\doTocEntry\toclof{2.1}{\csname a:TocLink\endcsname{1}{x1-190011}{}{\ignorespaces Caption for LOF}}{figure}\relax 
+\doTocEntry\tocsection{2.3}{\csname a:TocLink\endcsname{1}{x1-200002.3}{QQ2-1-30}{lenguajes de programaci\IeC {\'o}n en la ense\IeC {\~n}anza}}{33}\relax 
+\doTocEntry\toclof{2.2}{\csname a:TocLink\endcsname{1}{x1-200092}{}{\ignorespaces Caption for LOF}}{figure}\relax 
+\doTocEntry\tocsubsection{2.3.1}{\csname a:TocLink\endcsname{1}{x1-210002.3.1}{QQ2-1-32}{competencias especificas para el aprendizaje de un lenguaje de programaci\IeC {\'o}n}}{38}\relax 
+\doTocEntry\tocsection{2.4}{\csname a:TocLink\endcsname{1}{x1-220002.4}{QQ2-1-33}{Rob\IeC {\'o}tica y la ense\IeC {\~n}anza de programaci\IeC {\'o}n}}{40}\relax 
+\doTocEntry\tocchapter{3}{\csname a:TocLink\endcsname{1}{x1-230003}{QQ2-1-34}{Proyecto educativo tecnol\IeC {\'o}gico}}{42}\relax 
+\doTocEntry\tocsection{3.1}{\csname a:TocLink\endcsname{1}{x1-240003.1}{QQ2-1-35}{Introducci\IeC {\'o}n}}{42}\relax 
+\doTocEntry\tocchapter{}{\csname a:TocLink\endcsname{1}{Q1-1-36}{}{Referencias}}{42}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{1}{x1-250003.1}{QQ2-1-37}{Referencias}}{43}\relax 
+\par 

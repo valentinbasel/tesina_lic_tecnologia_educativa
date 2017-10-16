@@ -1,0 +1,13 @@
+# Fdb version 3
+["xdvipdfmx"] 0 "estado_de_la_cuestion.xdv" "estado_de_la_cuestion.pdf" "estado_de_la_cuestion" 0
+  "estado_de_la_cuestion.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "estado_de_la_cuestion.pdf"
+["xelatex"] 1506609196 "estado_de_la_cuestion.tex" "estado_de_la_cuestion.xdv" "estado_de_la_cuestion" 1506609196
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1495587079 31949 3ae02a131d161fd383f5b89f8ad0930c ""
+  "/usr/share/texlive/texmf-var/web2c/xetex/xelatex.fmt" 1500772509 3469071 dab3a4146c21b1cab496bb3250db24f3 ""
+  "estado_de_la_cuestion.aux" 1502129857 8 a94a2480d3289e625eea47cd1b285758 ""
+  "estado_de_la_cuestion.tex" 1506609195 16177 9a2c9ee4680667abaabfb3ba13a8a746 ""
+  (generated)
+  "estado_de_la_cuestion.log"
+  "estado_de_la_cuestion.xdv"

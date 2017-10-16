@@ -1,13 +1,13 @@
 
-\chapter{Marco Teorico}
+\chapter{Marco Teórico}
 
 \section{Introducción}
 
-Abordar un proyecto de robótica como Recurso Educativo Abierto (REA/OER), implica una serie de desarrollos conceptuales y teóricos que van a mas allá del diseño y desarrollo técnico de hardware y software. El uso de REA/OER \citep{montoya2012recursos} implica un compromiso ''político'' (entendiendo esto como una postura ideológica con respecto al uso de a tecnología) y la apropiación de términos conceptuales como ''software libre'' y ''soberanía tecnológica''. En este capitulo, se tratara de dar cuenta sobre los conceptos técnicos/teóricos para  la adopción de un proyecto de robótica educativa basado en software y hardware libre, tomando como base que la adopción de un proyecto de robótica educativa libre, implica adoptar las filosofías inherentes al software y la cultura libre.
+Abordar un proyecto de robótica como Recurso Educativo Abierto (REA/OER), implica una serie de desarrollos conceptuales y teóricos que van a mas allá del diseño y desarrollo técnico de hardware y software. El uso de REA/OER \citep{montoya2012recursos} implica un compromiso político-epistemológico con respecto al uso de la tecnología, esto es; la apropiación de términos conceptuales como ''software libre'', ''soberanía tecnológica'' y cultura libre. En lo que sigue, se da cuenta de los conceptos técnicos/teóricos para  la implementación de un proyecto de robótica educativa basado en software y hardware libre.
 
 \section{Construccionismo}
 
-El construccionismo es una teoría del aprendizaje diseñada por Seymour \cite{seymour_papert_desafio_1987} donde se resalta la importancia de la acción como parte principal en el proceso de aprendizaje. Toma como inspiración las ideas de la psicología construtivista partiendo del supuesto de que el conocimiento debe ser construido por el propio sujeto, el cual aprende a través de la acción, por lo tanto no es algo que se pueda solamente transmitir.
+El construccionismo es una teoría del aprendizaje diseñada por \cite{seymour_papert_desafio_1987} donde se resalta la importancia de la acción como parte principal en el proceso de aprendizaje. Toma como inspiración las ideas de la psicología constructivista, en especial el supuesto de que el conocimiento debe ser construido por el propio sujeto, el cual aprende a través de la acción. Por lo tanto, el conocimineto no es algo que se pueda solamente ''transmitir''.
 
 \begin{wrapfigure}{r}{0.5\textwidth}
   \begin{center}
@@ -20,44 +20,27 @@ El construccionismo es una teoría del aprendizaje diseñada por Seymour \cite{s
 
 % \footnote{By Valiant Technology Ltd., CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19501049}
 
-El concepto central dentro del construccionismo radica en plantear actividades de confección y construcción de artefactos (aunque no necesariamente artefactos físicos) los cuales funcionan como facilitadores del aprendizaje porque los sujetos al construir un dispostivo (un robot, un castillo o un programa de computadora), construyen también sus propias estructuras de conocimiento. Papert afirma que los sujetos ademas, deben construir objetos que sean de su interés personal, para poder interesarse mas en el proceso de construcción (y por ende, en su proceso de construcción del conocimiento) al mismo tiempo que los objetos construidos ofrecen la posibilidad de hacer mas concretos, palpables y visibles (dentro del esquema de pensamiento del sujeto) los conceptos abstractos o teóricos, y por tanto, los hace más fácilmente comprensibles.
+La  teoría  del  construccionismo  afirma  que  el  aprendizaje  es  mucho  mejor  cuando  los  sujetos  se
+comprometen en la construcción de un producto significativo para ellos, como podría ser un programa de computación, un robot, un juguete o una canción.
+
+De esta forma el construccionismo involucra dos tipos de construcción: cuando los niños construyen
+cosas en el mundo externo, simultáneamente construyen conocimiento al interior de sus mentes.  Este
+nuevo  conocimiento  entonces  les  permite  construir  cosas  mucho  más  sofisticadas  en  el  mundo
+externo, lo que genera más conocimiento, y así sucesivamente en un ciclo autoreforzante.
 
 \cite{seymour_papert_desafio_1987}  da el ejemplo de los ''engranajes'' que tanto lo fascinaron en su infancia para plantear como pensar en un ''objeto con el cual pensar'', y como en el hecho de ''pensarse como un engranaje'' le permitió aprender conceptos formales matemáticos que forman parte del desarrollo de un sistema de engranajes (relación entre dientes y fuerza en un tren de engranajes por ejemplo).
 
-\subsection{Lenguaje LOGO}
+El concepto central dentro del construccionismo radica en plantear actividades de confección y construcción de artefactos (aunque no necesariamente artefactos físicos) los cuales funcionan como facilitadores del aprendizaje porque los sujetos al construir un dispositivo (un robot, un castillo o un programa de computadora), construyen también sus propias estructuras de conocimiento. Papert afirma que los sujetos ademas, deben construir objetos que sean de su interés personal, para poder interesarse mas en el proceso de construcción (y por ende, en su proceso de construcción del conocimiento) al mismo tiempo que los objetos construidos ofrecen la posibilidad de hacer mas concretos, palpables y visibles (dentro del esquema de pensamiento del sujeto) los conceptos abstractos o teóricos, y por tanto, los hace más fácilmente comprensibles.
 
-Como parte del Construccionismo, Papert desarrollo el lenguaje LOGO, un lenguaje formal \citet{giro_lenguaje_2015} diseñado para poder trabajar conceptos de matemáticas sobre la idea de interaccionar con una ''tortuguita'' que dibuja en función de las ordenes (algoritmo) que los alumnos escriben en la computadora.
 
-\begin{wrapfigure}{R}{0.5\textwidth}
-  \begin{center}
-    \includegraphics[width=0.2\textwidth]{figuras/logo_robot.jpg}
-    \caption[Caption for LOF]{robot 'tortuga' original diseñado por el M.I.T}
-    
-    \label{fig:tortuga_mit}
-  \end{center}
-\end{wrapfigure}
-El lenguaje LOGO esta diseñado para ser sencillo de aprender, con instrucciones (''primitivas'' en el argot LOGO) que son intuitivas para el usuario (la palabra 'adelante', hace que la tortuga avance N pasos,  al igual que ''atrás'' hace que retroceda) y sin embargo sigue siendo un lenguaje de programación completo y capas de hacer lo mismo que otros lenguajes de propósito general  (como C, FORTRAN u otros lenguajes de la época). Una de las ventajas de LOGO es su facilidad de poder hacer ''algo'' con muy pocas lineas de código (tipicamente algun dibujo con la ''tortuguita''), \cite{seymour_papert_desafio_1987} plantea que cualquier niño, bajo las condiciones adecuadas, puede aprender un lenguaje de programación.
-
-Originalmente, las primeras pruebas de LOGO se hicieron con robots como el de la figura \ref{fig:tortuga_mit}, el cual estaba pensado para ser robusto, y capaz de soportar hasta el peso de un niño encima, las computadoras de la época no tenían capacidad de procesar gráficos de alta definición (y las impresoras eran caras y de uso casi exclusivo en las empresas), por lo tanto la ventaja de un robot eran muy interesantes.
-
-\begin{wrapfigure}{R}{0.5\textwidth}
-  \begin{center}
-    \includegraphics[width=0.2\textwidth]{figuras/turtle_with_apple.JPG}
-    \caption[Caption for LOF]{Version 'mini' del robot tortuga controlado por un micro computador Apple}
-    
-    \label{fig:tortuga_2}
-  \end{center}
-\end{wrapfigure}
-
-Con el advenimiento de las micro computadoras (como las ZX spectrum y las commodores C64), que contaban con la capacidad de trabajar  en monitores a color (o en los televisores CRT de la época) y con un bajo costo de adquisición, se dejo de utilizar los robots tortuga, para directamente trabajar con el lenguaje de programación LOGO y una ''tortuga virtual'', menos llamativa pero mucho mas barato de adquirir para los colegios.
 
 \section{Ciencias de la computación}
 
-Tomando como referencia a la propuesta de la fundación Sadosky \citep{sadosky2013cc} podemos hacer una diferencia entre las  tecnologías de la  información y comunicación (TIC) y las ciencias de la computación (CC), donde las primeras (TICs) se refieren a nivel global sobre el uso de herramientas basadas en computadoras (ofimaticas, navegación por internet, etc etc.), mientras que las ciencias de la computación están mas orientadas específicamente a la generación de habilidades y competencias especificas 
+Tomando como referencia a la propuesta de la fundación \cite{sadosky2013cc} podemos hacer una diferencia entre las  tecnologías de la  información y comunicación (TIC) y las ciencias de la computación (CC), donde las primeras (TICs) se refieren a nivel global sobre el uso de herramientas basadas en computadoras (ofimaticas, navegación por internet, etc etc.), mientras que las ciencias de la computación están mas orientadas específicamente a la generación de habilidades y competencias especificas 
 
 \section{Lenguajes formales}
 
-Podemos definir a un lenguaje formal como un lenguaje cuyos símbolos (alfabeto) y reglas para unir esos símbolos (gramática) están formalmente definidos \citep{giro_lenguaje_2015}. Por consiguiente se pordia decir que su particularidad  es la de un lenguaje cuyos significados son ''vacíos'', dicho en otros términos: en los lenguajes formales los signos pueden ser manipulados sin interpretación, se trata de un ''usar sin necesidad de entender'' para potenciar y mejorar los razonamientos en la medida que se evitan los sesgos cognitivos asociados al uso del lenguaje natural.
+Podemos definir a un lenguaje formal como un lenguaje cuyos símbolos (alfabeto) y reglas para unir esos símbolos (gramática) están formalmente definidos \citep{giro_lenguaje_2015}. Por consiguiente se podria decir que su particularidad  es la de un lenguaje cuyos significados son ''vacíos'', dicho en otros términos: en los lenguajes formales los signos pueden ser manipulados sin interpretación, se trata de un ''usar sin necesidad de entender'' para potenciar y mejorar los razonamientos en la medida que se evitan los sesgos cognitivos asociados al uso del lenguaje natural.
 
 Un lenguaje de programación es un lenguaje formal, como la lógica y la matemática, con la diferencia que fue diseñado para realizar procesos que pueden ser llevados a cabo por computadoras (maquinas de Turing). Entre sus características principales, se encuentra la posibilidad de poder crear programas que gobiernen el comportamiento de una computadora, tanto a nivel físico (hardware) como lógico (software), por lo que son de suma importancia para generar algoritmos que permitan el control de una computadora.
 
@@ -159,9 +142,7 @@ Teniendo en cuenta estos conceptos, podemos explicar algunas de las definiciones
  
 Un programa es software libre si otorga a los usuarios todas estas libertades de manera adecuada. Por lo tanto el echo de contar con el código fuente es una condición necesaria para poder aplicar las 4 libertades que plantea la FSF (Free Software Foundation), lo dicho hasta aquí supone que todos los programas desarrollados y distribuidos bajo licencias libres (por ej. -la licencia GNU/GPL V3) tienen que se distribuidos con los archivos de código fuente ademas de de los archivos ejecutables (en el caso de programas compilados).
 
-El software libre busca proteger las libertades individuales de los usuarios de computadoras como oposición a los desarrollos de software privativos (como los define la FSF), licencias restrictivas de uso, software malicioso (malwares, backtrack, etc.) monopolios \citep{beatriz_busaniche_argentina_2010}, y practicas poco éticas que algunas empresas pueden aplicar a sus usuarios de software. En cambio, gracias al software libre, los usuarios no están restringidos por el desarrollador de la aplicación y son dueños completos de el programa que necesitan usar, permitiendo a comunidades, organismos estatales y/o universidades, adaptar dicho software a las necesidades concretas de cada grupo, y así poder dar respuesta a necesidades puntuales que podrían no ser ''rentables'' para una empresa particular.
-
-\begin{wrapfigure}{r}{0.5\textwidth}
+\begin{wrapfigure}{R}{0.5\textwidth}
 %\begin{figure}[h]
   \begin{center}
     \includegraphics[width=0.5\textwidth]{figuras/fsf.png}
@@ -170,6 +151,8 @@ El software libre busca proteger las libertades individuales de los usuarios de 
   \end{center}
 %\end{figure}
 \end{wrapfigure}
+
+El software libre busca proteger las libertades individuales de los usuarios de computadoras como oposición a los desarrollos de software privativos (como los define la FSF), licencias restrictivas de uso, software malicioso (malwares, backtrack, etc.) monopolios \citep{beatriz_busaniche_argentina_2010}, y practicas poco éticas que algunas empresas pueden aplicar a sus usuarios de software. En cambio, gracias al software libre, los usuarios no están restringidos por el desarrollador de la aplicación y son dueños completos de el programa que necesitan usar, permitiendo a comunidades, organismos estatales y/o universidades, adaptar dicho software a las necesidades concretas de cada grupo, y así poder dar respuesta a necesidades puntuales que podrían no ser ''rentables'' para una empresa particular.
 
 Se podría decir que el software libre es un desarrollo soportado por las comunidades y para las comunidades, donde el esquema de desarrollo es distribuido y global, o como dice \citep{raymond_catedral_1998} un esquema donde el desarrollo de software libre es mas parecido a un ''bazar'' donde todos aportan de manera ''desorganizada'' y des centralizada, en contra posición a un desarrollo mas parecido a una ''catedral'', donde un arquitecto es el jefe central del desarrollo, en un esquema fuertemente estructurado.
 
@@ -196,7 +179,7 @@ Hardware de Fuentes Abiertas (OSHW en inglés) es aquel hardware cuyo diseño se
 
 \begin{wrapfigure}{r}{0.5\textwidth}
   \begin{center}
-    \includegraphics[width=0.2\textwidth]{figuras/reprap.jpg}
+    \includegraphics[width=0.5\textwidth]{figuras/reprap.jpg}
     \caption[Caption for LOF]{Impresora 3d diseñada con hardware libre}
        
     \label{fig:reprap }
@@ -242,8 +225,8 @@ A nivel histórico, la palabra robots viene definida por la la obra R.U.R. (Robo
 
 \begin{wrapfigure}{r}{0.5\textwidth}
   \begin{center}
-    \includegraphics[width=0.4\textwidth]{figuras/Capek_play.jpg}
-    \caption[Caption for LOF]{una escena de la obra de Karel Čapek's R.U.R. (Rossum's Universal Robots), en donde podemos ver a los ''robots''.}
+    \includegraphics[width=0.5\textwidth]{figuras/Capek_play.jpg}
+    \caption[Caption for LOF]{una escena de la obra de Karel Capek's R.U.R. (Rossum's Universal Robots), en donde podemos ver a los ''robots''.}
        
     \label{fig:reprap }
   \end{center}
@@ -258,7 +241,7 @@ Se podría decir que cualquier sistema que posea sensores, actuadores y algún t
 
 lo que se podría traducir como: ''un robot es un manipulador multifuncional y reprogramable diseñado para desplazar materiales, componentes, herramientas o dispositivos especializados por medio de movimientos programados variables con el fin de realizar tareas diversas''.
 
-Por otro lado, la J.A.R.A\footnote{http://www.jara.jp/e/index.html} (Japan Robot Association, ex J.I.R.A) usa una definición menos orientada a los manipuladores industriales (como los brazos robots que se usan en la industria automotriz) \cite{reyes_cortes_robotica:_2011}:
+Por otro lado, la J.A.R.A\footnote{http://www.jara.jp/e/index.html} (Japan Robot Association, ex J.I.R.A) usa una definición menos orientada a los manipuladores industriales \citep{reyes_cortes_robotica:_2011}:
 
 \begin{center}
 \textit{Los robots son dispositivos capaces de moverse de modo flexible análogo al que poseen los organismos vivos, con o sin funciones intelectuales, permitiendo operaciones en respuesta a las órdenes humanas}
@@ -276,7 +259,3 @@ Por otro lado uno de los mayores problemas de la implementación de la robótica
 
 Por lo tanto, la Robótica educativa con software y hardware libre es una opción mas que viable para la aplicación en el proceso de aprendizaje, 
 porque permite a las escuelas adaptar la tecnología a las necesidades especificas de la institución, permitiendo reutilizar componentes que se encuentren en el colegio ( aportados por la comunidad escolar), reciclando y asi ahorrar costos, a su ves por la gran expectativa que genera en los alumnos (y docentes), y al ser de código fuente libre, permite romper barreras culturales y políticas que pueden ir en detrimento de la calidad educativa, barreras como el alto costo de adquisición de los elementos, licencias privativas para el software de control o la falta de documentación especifica para comunidades minoritarias (traducciones a idiomas que no son viables comercialmente por ejemplo). La robótica educativa con software y hardware libre permite aprovechar las ventajas que ofrecen la filosofía de desarrollo que existe en las comunidades de software libre, donde ''mil ojos ven mas que uno'' \citet{raymond_catedral_1998}, permitiendo involucrar a la comunidad escolar en su conjunto y donde las soluciones aportadas por el grupo podran ser utilizadas en otros colegios y vice versa, generando una situaciones donde todos los involucrados salen favorecidos.
-
-
-
-
