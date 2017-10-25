@@ -1,0 +1,95 @@
+
+\chapter*{Planificación de clase Numero: 4}
+\subsubsection{Temática}
+Introducción a la robótica, armado modulo 5 y 6 placa ICARO
+
+\subsubsection{Tiempo}
+3 Horas
+
+\subsubsection{Resumen}
+
+Con esta secuencia didáctica se termina de montar todos los componentes de la placa NP07, dejando una placa lista y funcional para trabajar con robótica.
+
+Los módulos 5 y 6 habilitan la fuente de alimentación externa (baterias) y el puente H (L293) encargado de manejar los dos motores de corriente continua que puede administrar el hardware ICARO. 
+
+En esta clase se busca que los participantes comprendan el manejo de un motor de corriente continua (con inversión de giro y pwm) y conceptos de electronica para comprobación de la fuente de alimentación de la placa NP07.
+Para controlar el hardware de forma autónoma se usara el adaptador buetooth HC05 que permite una comunicación wireless punto a punto emulando un puerto serial (/dev/rfcom0).
+
+\subsubsection{Objetivos}
+que los participantes logren:
+\begin{itemize}
+  \item Comprender el trabajo de los motores de corriente continua y sus diferencias con los motores de ''paso a paso''.
+  \item Comprender el trabajo de los sistemas PWM.
+  \item Ley de ohm en electrónica.
+  \item Trabajar los conceptos de repeticiones (FOR, WHILE) y saltos condicionales (IF, THEN, ELSE) aplicados a un robot autónomo.
+\end{itemize}
+
+\subsubsection{actividades}
+inicio:
+\begin{itemize}
+  \item Se repartirán los componentes y herramientas para el armado del modulo 5 y 6.
+\end{itemize}
+desarrollo:
+\begin{itemize}
+  \item Se procederá al soldado de los componentes. 
+  \item Luego de ensamblado el modulo 5 y 6, se repartirán motores de corriente continua y baterías para poder ensamblar un robot autónomo.
+  \item Mediante un conector HC05 (bluetooth) controlar el robot mediante PYTHON.
+  \item Diseñar los algoritmos para: 
+  \begin{itemize}
+    \item Robot evasor de obstáculos.
+    \item Robot seguidor de lineas.
+    \item Robot seguidor de luz.
+  \end{itemize}
+  
+\end{itemize}
+
+\subsubsection{metodología}
+
+Una ves armado el modulo 5 y 6 de la placa NP07, se procederá a probar el uso de motores de corriente continua, la fuente de alimentación (usando baterías y/o una fuente externa de 9V a 12V).
+
+Esta secuencia didáctica busca ser un integrador de las clases anteriores, permitiendo trabajar sobre actuadores como los motores de corriente continua y servo motores (a través de PWM) interactuando con sensores analógicos y digitales. 
+
+Es importante tratar de no enseñar recetas y en su lugar, favorecer la discusión sobre nuevas formas de abordar el mismo problema y tratar de fomentar el desarrollo de nuevos algoritmos para resolver el mismo problema planteado (uso de la estructura de control IF mediante los sensores analogicos para control de motores de corriente continua).
+
+\subsubsection{recursos}
+El aula:
+\begin{itemize}
+  \item Mesa adecuada para trabajar, una mesa por cada 4 participantes.
+  \item Zapatillas eléctricas, una por mesa de trabajo.
+\end{itemize}
+El espacio de trabajo tiene que ser amplio, ventilado y con buena iluminación para poder trabajar y poder tener espacio para manipular los soldadores de estaño.    
+
+para el docente:
+\begin{itemize}
+  \item proyector
+  \item computadora con sistema ICARO instalado
+\end{itemize}
+para los participantes:
+\begin{itemize}
+  \item Soldador de estaño.
+  \item Estaño.
+  \item Pinza cutter.
+  \item Computadora con el software ICARO instalado.
+  \item Cable usb impresora (con conector tipo B).
+  \item Multimetro.
+  \item Des soldador.
+  \item Esponja humedecida para limpiar el soldador
+  \item Componentes electrónicos para soldar el modulo 5 y 6 de la placa ICARO (Anexo 1) 
+\end{itemize}
+
+\subsubsection{recomendaciones}
+
+\begin{itemize}
+  \item Preparar el laboratorio por lo menos 30 minutos antes de empezar el taller y calentar los soldadores.
+
+  \item Limpiar la punta de los soldadores y aplicar una película de estaño (en caso de los soldadores de punta metálica).
+
+  \item Separar los componentes electrónicos a utilizar en el taller y repartir entre las mesas de trabajo.
+
+\end{itemize}
+
+\subsubsection{anexos}
+\begin{itemize}
+  \item Anexo 2 para el armado de la placa ICARO NP07 (modulo 5 y 6).
+\end{itemize}
+\newpage

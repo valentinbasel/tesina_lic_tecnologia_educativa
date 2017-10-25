@@ -2,11 +2,11 @@
 
 \section{Introducción}
 
-En este capítulo, se tratará de dar cuenta de la importancia de la la enseñanza de las ciencias de computación en la escuela media, señalando cómo la robótica puede servir de herramienta para lograr ese cometido, aprovechando sus particularidades y ventajas a la hora de abordar conceptos propios del pensamiento algorítmico (repeticiones, recursividad, saltos condicionales). Estos planteos se encuentran en consecuencia con la actual ley Nacional de Educación N\grad 26.206 que, en su artículo 30\grad, Inc. F, enuncia: 
+En este capítulo, se da cuenta de la importancia de la enseñanza de las ciencias de computación en la escuela media, señalando cómo la robótica puede servir de herramienta para lograr ese cometido, aprovechando sus particularidades y ventajas a la hora de abordar conceptos propios del pensamiento algorítmico (repeticiones, recursividad, saltos condicionales). Estos planteos se encuentran en consecuencia con la actual ley Nacional de Educación N\grad 26.206 que, en su artículo 30\grad, Inc. F, enuncia: 
 
 \textit{Desarrollar  las  capacidades  necesarias  para  la  comprensión  y  utilización  inteligente  y  crítica  de  los  nuevos  lenguajes  producidos  en  el  campo  de  las tecnologías de la información y la comunicación.}
 
-Podemos decir que las ciencias de la computación \citep[pág 4]{sadosky2013cc} se volverán de vital importancia a la hora de pensar un esquema curricular especifico para abordar los contenidos básicos propuestos por dicha ley.
+Podemos decir, que las ciencias de la computación \citep[pág 4]{sadosky2013cc} se volverán de vital importancia a la hora de pensar un esquema curricular específico para abordar los contenidos básicos propuestos por dicha ley.
 
 \section{Antecedentes}
 
@@ -17,14 +17,14 @@ A través de esa experiencia, Papert colabora con la empresa LEGO para fabricar 
 
 Con el tiempo, el lenguaje LOGO abandonaría la tortuga robot. El elevado costo de cada robot tortuga y el abaratamiento de las micro computadoras (por ej. COMMODORE\textsuperscript{\textregistered} c64) con capacidad de procesar gráficos a color  hicieron que fuera muy difícil implementar una currícula basada en LOGO solamente usando elrobot tortuga.
 
-\begin{wrapfigure}{R}{0.5\textwidth}
+\begin{figure}[htb]
   \begin{center}
     \includegraphics[width=0.5\textwidth]{figuras/logo_robot.jpg}
     \caption[Caption for LOF]{robot 'tortuga' original diseñado por el M.I.T}
     
     \label{fig:tortuga_mit}
   \end{center}
-\end{wrapfigure}
+\end{figure}
 
 El lenguaje LOGO está diseñado para ser sencillo de aprender, con instrucciones ''primitivas'' (en el argot LOGO) que son intuitivas para el usuario; la palabra 'adelante', hace que la tortuga avance N pasos,  al igual que ''atrás'' hace que retroceda. Sin embargo sigue siendo un lenguaje de programación completo y capaz de hacer lo mismo que otros lenguajes de propósito general  (como C, FORTRAN u otros lenguajes de la época). 
 
@@ -32,14 +32,14 @@ Una de las ventajas de LOGO es su facilidad de poder hacer ''algo'' con muy poca
 
 Originalmente, las primeras pruebas de LOGO se hicieron con robots como el de la figura \ref{fig:tortuga_mit}, el cual estaba pensado para ser robusto, y capaz de soportar hasta el peso de un niño encima. Las computadoras de la época no tenían capacidad de procesar gráficos de alta definición (y las impresoras eran caras y de uso casi exclusivo en las empresas), por lo tanto la ventaja de disponer de un robot que dibuje eran muy atractivas.
 
-\begin{wrapfigure}{R}{0.5\textwidth}
+\begin{figure}[htb]
   \begin{center}
     \includegraphics[width=0.5\textwidth]{figuras/turtle_with_apple.JPG}
     \caption[Caption for LOF]{Versión 'mini' del robot tortuga controlado por un micro computador Apple}
     
     \label{fig:tortuga_2}
   \end{center}
-\end{wrapfigure}
+\end{figure}
 
 Con el advenimiento de las micro computadoras (como las ZX spectrum\textsuperscript{\texttrademark}  y las commodores\textsuperscript{\texttrademark} C64), que contaban con la capacidad de trabajar  en monitores a color (o en los televisores CRT de la época) tenian bajo costo de adquisición, se dejó de utilizar a los robots tortuga, para directamente trabajar con el lenguaje de programación LOGO y una ''tortuga virtual'', menos llamativa pero mucho mas barata de adquirir para los colegios. 
 
@@ -50,14 +50,15 @@ El primer modelo de la placa Arduino\textsuperscript{\texttrademark} fue introdu
 
 Actualmente los miles de kits para enseñanza de robótica que se diseñan y fabrican (a pequeña o gran escala) están basados en la arquitectura Arduino\textsuperscript{\texttrademark} y la serie de micro controladores AVR\textsuperscript{\textregistered} de 8 bits. La inmensa documentación disponible y la facilidad de adquisición de los componentes, ha expandido su uso por parte de diversas comunidades y con diversas finalidades, entre ellas, la enseñanza de robótica. Esta gran demanda,  también incidió en el abaratamiento de los costos de fabricación del hardware. Los kits generalmente constan de una serie uniforme de componentes electrónicos y mecánicos, como servo motores, motores de corriente continua, sensores analógicos / digitales y componentes de electrónica discreta (resistencias, leds, capacitores, entro otros), que permiten trabajar una serie de sistemas de automatización, robótica y/o domótica de mayor o menor complejidad.
 
-\begin{wrapfigure}{r}{0.5\textwidth}
+\begin{figure}[htb]
+%{R}{0.5\textwidth}
   \begin{center}
     \includegraphics[width=0.5\textwidth]{figuras/Arduino_Uno_-_R3.jpg}
     \caption[Caption for LOF]{Arduino\textsuperscript{\texttrademark} Uno Rev. 3}
        
-    \label{fig:arduinouno }
+   \label{fig:arduinouno }
   \end{center}
-\end{wrapfigure}
+\end{figure}
 
 %\texttrademark : pone el símbolo TM
 %\textregistered : pone el símbolo consistente en una R rodeada de un círculo
@@ -90,29 +91,31 @@ La ciencia computacional permite fomentar habilidades que pueden ser aplicadas a
   \item Proceso de diseño, implementación y prueba.
 \end{enumerate}
 
-De esta forma la enseñanza de un lenguaje formal toma una particular relevancia dentro del esquema educativo actual, que busca resolver los problemas planteados por la necesidad de alfabetizar digitalmente a la población.
+De esta forma, la enseñanza de un lenguaje formal toma una particular relevancia dentro del esquema educativo actual, que busca resolver los problemas planteados por la necesidad de alfabetizar digitalmente a la población.
 
 Sin embargo, hay críticas concretas a la enseñanza del ''pensamiento algoritmico'' en contraposición a la enseñanza de lenguajes formales específicos. La idea de pensamiento algorítmico es que se pueden aprender conceptos de programación a través de meta-lenguajes, o lenguajes pedagógicos (pseudo código o sistemas basados en diagramas y gráficos). Desde esta perspectiva, un lenguaje educativo permitiría simplificar el contenido técnico complejo, y abordar de forma escalonada el aprendizaje de la ciencia computacional.
 
-Como critica a ese modelo, \cite{dijkstra2010que} plantean que la ''simplificación'' de un lenguaje formal con pseudo código o con lenguajes ''de juguete'' (como el caso del lenguaje BASIC en su momento), puede ser contraproducentes para el aprendizaje. En terminaos del propio Dijkstra:
+Como crítica a ese modelo, \cite{dijkstra2010que} plantean que la ''simplificación'' de un lenguaje formal con pseudo código o con lenguajes ''de juguete'' (como el caso del lenguaje BASIC en su momento), puede ser contraproducentes para el aprendizaje. En terminaos del propio Dijkstra:
 
 \begin{center}
 \textit{Es prácticamente imposible enseñar una buena programación a los estudiantes que han tenido una exposición previa a BASIC: como programadores potenciales son mentalmente mutilados más allá de la esperanza de regeneración.}
 \end{center}[Traducción propia]
 
-Para \cite{seymour_papert_desafio_1987} los lenguajes simplificados como BASIC (o como los lenguajes basados en bloques gráficos de mas reciente aparición) que se  ''promocionan'' como lenguajes simples de aprender a causa de su reducido vocabulario, son sin embargo, extremadamente complejos de usar para crear programas no triviales. El fenómeno del lenguaje BASIC fue definido por \cite{seymour_papert_desafio_1987} como el ''fenómeno QWERTY'', a causa de los teclados, que fueron diseñados en la época de las primeras máquinas de escribir mecánicas. Estas máquinas solían trabarse si se ponían cerca las teclas de uso más común; por ello, se diseño un sistema de ordenamiento de letras denominado QWERTY que dificultaba la digitación veloz para evitar dicho problema. Aun después de la creación de las computadoras, cuando los problemas mecánicos de las maquinas de escribir ya no tenían sentido, se continuo usando ese mismo sistema. El el caso de los  sistemas BASIC, sucedió algo similar: fueron diseñados para resolver problemas presentados por las primeras micro computadoras, simplificando su set de instrucciones. Una vez que esos problemas fueron resueltos por hardware más potente y de menor costo, la industria no obstante siguió eligiendo BASIC como herramienta de desarrollo y enseñanza de programación. 
+Para \cite{seymour_papert_desafio_1987}, los lenguajes simplificados como BASIC (o como los lenguajes basados en bloques gráficos de más reciente aparición) que se  ''promocionan'' como lenguajes simples de aprender a causa de su reducido vocabulario, son sin embargo, extremadamente complejos de usar para crear programas no triviales. El fenómeno del lenguaje BASIC fue definido por \cite{seymour_papert_desafio_1987} como el ''fenómeno QWERTY'', a causa de los teclados, que fueron diseñados en la época de las primeras máquinas de escribir mecánicas. Estas máquinas solían trabarse si se ponían cerca las teclas de uso más común; por ello, se diseñó un sistema de ordenamiento de letras denominado QWERTY que dificultaba la digitación veloz para evitar dicho problema. Aun después de la creación de las computadoras, cuando los problemas mecánicos de las máquinas de escribir ya no tenían sentido, se continuó usando ese mismo sistema. 
 
- \begin{wrapfigure}{R}{0.5\textwidth}
-  \begin{center}
-    \includegraphics[width=0.5\textwidth]{figuras/lego_mindstorm.jpg}
-    \caption[Caption for LOF]{Robot LEGO\textsuperscript{\textregistered} MINDSTORM\textsuperscript{\textregistered}}
-    \label{fig:legomindstorm }
-  \end{center}
-\end{wrapfigure}
+El caso de los  sistemas BASIC, sucedió algo similar: fueron diseñados para resolver problemas presentados por las primeras micro computadoras, simplificando su set de instrucciones. Una vez que esos problemas fueron resueltos por hardware más potente y de menor costo, la industria no obstante siguió eligiendo BASIC como herramienta de desarrollo y enseñanza de programación. 
+
+% \begin{wrapfigure}{R}{0.5\textwidth}
+%  \begin{center}
+%    \includegraphics[width=0.5\textwidth]{figuras/lego_mindstorm.jpg}
+%    \caption[Caption for LOF]{Robot LEGO\textsuperscript{\textregistered} MINDSTORM\textsuperscript{\textregistered}}
+%    \label{fig:legomindstorm }
+%  \end{center}
+%\end{wrapfigure}
 
 \subsection{Competencias especificas para el aprendizaje de un lenguaje de programación}
 
-Para usar un lenguaje de programación (entendiendo este como un lenguaje formal de tipo especifico) como herramienta de enseñanza, es necesario tener en cuenta una serie de capacidades o características para que puedan ser incluidos en una currícula educativa. En general podemos decir que un lenguaje de programación debería tener las siguientes cualidades:
+Para usar un lenguaje de programación (entendiendo este como un lenguaje formal de tipo especifico) como herramienta de enseñanza, es necesario tener en cuenta una serie de capacidades o características para que puedan ser incluidos en una currícula educativa. En general podemos decir, que un lenguaje de programación debería tener las siguientes cualidades:
 
 \begin{enumerate}
    \item Ser de alto nivel (similar a un lenguaje natural).
@@ -135,7 +138,7 @@ Hay que hacer una aclaración respecto a los lenguajes de marcado (como HTML), q
 Si bien esta enumeración de características no es exhaustiva, pone en manifiesto que, habiendo una enorme cantidad de lenguajes de programación, algunos de características mas especificas que otros, la elección del lenguaje de programación que se usará para un curso de enseñanza inicial no es un asunto trivial.
 
 
-\section{Robótica y la enseñanza de programación}
+\section{La robótica y la enseñanza de programación}
 
 En la actualidad, el uso de robótica se está extendiendo dentro de los espacios curriculares, los robots educativos se presentan como una alternativa interesante para poder trabajar conocimientos transversales a distintas disciplinas, desde la matemática y programación hasta las ciencias naturales. No obstante, se podría decir que dónde más se pueden aprovechar las ventajas de los kits de robótica que pululan en el mercado es precisamente en la enseñanza de los lenguajes de programación.
 

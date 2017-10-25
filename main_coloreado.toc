@@ -1,0 +1,40 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {0.1}Introducción}{7}{section.0.1}
+\contentsline {chapter}{\numberline {1}Marco Teórico}{10}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introducción}{10}{section.1.1}
+\contentsline {section}{\numberline {1.2}Construccionismo}{10}{section.1.2}
+\contentsline {section}{\numberline {1.3}Ciencias de la computación}{12}{section.1.3}
+\contentsline {section}{\numberline {1.4}Lenguajes formales}{12}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Python}{13}{subsection.1.4.1}
+\contentsline {section}{\numberline {1.5}Soberanía tecnológica}{14}{section.1.5}
+\contentsline {section}{\numberline {1.6}Software libre}{15}{section.1.6}
+\contentsline {subsection}{\numberline {1.6.1}Código fuente}{15}{subsection.1.6.1}
+\contentsline {section}{\numberline {1.7}Hardware de especificaciones abiertas }{19}{section.1.7}
+\contentsline {subsection}{\numberline {1.7.1}Software libre en la escuela}{21}{subsection.1.7.1}
+\contentsline {section}{\numberline {1.8}Robots}{23}{section.1.8}
+\contentsline {section}{\numberline {1.9}Robótica educativa}{24}{section.1.9}
+\contentsline {chapter}{\numberline {2}Estado de la cuestión}{27}{chapter.2}
+\contentsline {section}{\numberline {2.1}Introducción}{27}{section.2.1}
+\contentsline {section}{\numberline {2.2}Antecedentes}{28}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Lenguaje LOGO}{28}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}ARDUINO\textsuperscript {\texttrademark } y la revolución del hardware libre.}{30}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}lenguajes de programación en la enseñanza}{31}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Competencias especificas para el aprendizaje de un lenguaje de programación}{34}{subsection.2.3.1}
+\contentsline {section}{\numberline {2.4}La robótica y la enseñanza de programación}{35}{section.2.4}
+\contentsline {chapter}{\numberline {3}Proyecto de transferencia}{37}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introducción}{37}{section.3.1}
+\contentsline {section}{\numberline {3.2}Justificación}{38}{section.3.2}
+\contentsline {section}{\numberline {3.3}Objetivos}{38}{section.3.3}
+\contentsline {section}{\numberline {3.4}Licencias}{39}{section.3.4}
+\contentsline {section}{\numberline {3.5}Metodologia}{40}{section.3.5}
+\contentsline {section}{\numberline {3.6}Capacitación}{41}{section.3.6}
+\contentsline {section}{\numberline {3.7}Duración}{42}{section.3.7}
+\contentsline {section}{\numberline {3.8}Gantt}{42}{section.3.8}
+\contentsline {section}{\numberline {3.9}Requerimientos para el laboratorio de desarrollo}{46}{section.3.9}
+\contentsline {section}{\numberline {3.10}Herramientas}{46}{section.3.10}
+\contentsline {section}{\numberline {3.11}Laboratorio informatico}{49}{section.3.11}
+\contentsline {chapter}{\numberline {4}Reflexiones finales}{51}{chapter.4}
+\contentsline {section}{\numberline {4.1}Robótica como herramienta construccionista}{52}{section.4.1}
+\contentsline {section}{\numberline {4.2}Programa o seras programado}{52}{section.4.2}
+\contentsline {section}{\numberline {4.3}Lo instrumental también es político}{53}{section.4.3}
+\contentsfinish 

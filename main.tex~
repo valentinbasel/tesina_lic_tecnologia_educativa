@@ -1,15 +1,11 @@
 \documentclass[a4paper,openright,openany,12pt]{book}
 %\renewcommand{\baselinestretch}{1.5} % interlineado 1,5
 
-\usepackage{xcolor} % Required for specifying colors by name
-\definecolor{ocre}{RGB}{243,102,25} % Define the orange color used for highlighting throughout the book
 
 
- \usepackage{setspace}
- \usepackage{float}
-%\doublespacing
-%\onehalfspace
-%\singlespace
+\usepackage{setspace}
+\usepackage{float}
+
 \spacing{1.5} % espaciado
 
 \usepackage[T1]{fontenc} % con esto me reconoce los acentos
@@ -34,6 +30,7 @@
             ]{doclicense}
 
 \newcommand{\grad}{$^{\circ} $}
+
 \begin{document}
 \author{valentin Basel}
 \title{Robótica y educación popular}
@@ -43,11 +40,7 @@
 ~\vfill
 \thispagestyle{empty}
 \noindent \doclicenseThis
-
-%\noindent 
-
-
-%\input{dedicatoria}
+\newpage
 \input{referencia}
 
 \tableofcontents % indice de contenidos
@@ -57,8 +50,7 @@
 \input{marco_teorico}
 \input{estado_de_la_cuestion}
 \input{proyecto_educativo_tecnologico}
-%\input{ud1}
-%\cleardoublepage
+\input{conclusiones}
 \addcontentsline{toc}{chapter}{Referencias}
 \bibliographystyle{apacite} % estilo de la bibliografía.
 \bibliography{biblioteca/biblioteca_tesis} % yyyy.bib es el fichero donde está salvada la bibliografía.

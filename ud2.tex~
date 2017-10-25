@@ -1,0 +1,89 @@
+\chapter*{Secuencia didáctica}
+\section*{Planificación de clase Numero: 2}
+\subsubsection{Temática}
+armado modulo 3 de la placa ICARO
+
+\subsubsection{Tiempo}
+3 Horas
+
+\subsubsection{Resumen}
+
+La actividad estara centrada en el armado del modulo 3 de la placa NP07 ICARO y sobre el sistema binario, representado por los 8 leds del puerto ''B''.
+
+Luego de finalizado el armado del modulo 3, se procederá a las primeras pruebas de programación del micro controlador, donde se tomara como actuador de salida al puerto ''B'' (PORTB). Cada led del puerto B representa un estado on-off de un byte (8bits), donde el led 0 representa el bit menos significativo de del byte hasta el led 07 que representa el bit mas significativo. Activar o desactivar cada led, representa un trabajo sobre el concepto de lógica binaria, la cual es una de las partes fundamentales del trabajo con computadoras. 
+
+\subsubsection{Objetivos}
+\begin{itemize}
+  \item Armar el modulo 3 de la placa NP07.
+  \item Trabajar sobre el concepto de álgebra binaria.
+  \item Aplicar concepto de ''repeticion'' (bucle FOR, WHILE) en el manejo de señales del puerto ''B'' a través del lenguaje PYTHON
+
+\end{itemize}
+
+\subsubsection{actividades}
+inicio:
+\begin{itemize}
+  \item Se repartirán los componentes y herramientas para el armado del modulo 3.
+
+\end{itemize}
+desarrollo:
+\begin{itemize}
+  \item Se procederá al soldado de los componentes. 
+  \item Con el puerto ''B'' listo, se harán pruebas de encendido de leds. 
+  \item Prender secuencialmente los leds.
+  \item usar el bulce FOR para manejar el puerto ''B''
+\end{itemize}
+
+\subsubsection{metodologia}
+
+La idea principal de esta secuencia didáctica es la de poder trabajar con el puerto digital ''B'' del micro controlador 18f4550 para entender los principios de la lógica y matemática binaria.
+Cuando se enviá el valor '1' al puerto, este lo transforma internamente en su equivalente binario 00000001, de esta forma cuando se envia desde python ''icaro.activar(1)'' Se prenderá el led 1, sin embargo esa relación uno a uno no es correcta, porque cuando se enviá el valor decimal 3, se encenderán los leds 1 y 2 (00000011). Es importante dejar que los participantes prueben distintas posibilidades antes de comenzar a ver el concepto de sistema binario.
+
+Luego se procederá a trabajar sobre las principales estructuras de control de un lenguaje de programación, en esta secuencia didáctica se abordara principalmente el concepto de bucle, usando las instrucciones FOR y WHILE.
+
+Es importante tratar de no enseñar recetas y en su lugar, favorecer la discusión sobre nuevas formas de abordar el mismo problema, tratar de fomentar el desarrollo de nuevos algoritmos para resolver el mismo problema planteado (prender los leds de forma secuencial por ejemplo).
+
+\subsubsection{recursos}
+El aula:
+\begin{itemize}
+  \item Mesa adecuada para trabajar, una mesa por cada 4 participantes.
+  \item Zapatillas eléctricas, una por mesa de trabajo.
+\end{itemize}
+El espacio de trabajo tiene que ser amplio, ventilado y con buena iluminación para poder trabajar y poder tener espacio para manipular los soldadores de estaño.    
+
+para el docente:
+\begin{itemize}
+  \item proyector
+  \item computadora con sistema ICARO instalado
+\end{itemize}
+para los participantes:
+\begin{itemize}
+  \item Soldador de estaño.
+  \item Estaño.
+  \item Pinza cutter.
+  \item Computadora con el software ICARO instalado.
+  \item Cable usb impresora (con conector tipo B).
+  \item Multimetro.
+  \item Des soldador.
+  \item Esponja humedecida para limpiar el soldador
+  \item Componentes electrónicos para soldar el modulo 3 de la placa ICARO (Anexo 2) 
+\end{itemize}
+
+\subsubsection{recomendaciones}
+
+\begin{itemize}
+  \item Preparar el laboratorio por lo menos 30 minutos antes de empezar el taller y calentar los soldadores.
+
+  \item Limpiar la punta de los soldadores y aplicar una pelicula de estaño (en caso de los soldadores de punta metálica).
+
+  \item Separar los componentes electrónicos a utilizar en el taller y repartir entre las mesas de trabajo.
+
+\end{itemize}
+%\subsubsection{matriz de evaluación}
+%bla
+\subsubsection{anexos}
+\begin{itemize}
+  \item Anexo 2 para el armado de la placa ICARO NP07 (modulo 3).
+\end{itemize}
+
+\newpage

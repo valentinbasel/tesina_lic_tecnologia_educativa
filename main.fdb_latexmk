@@ -1,16 +1,16 @@
 # Fdb version 3
-["bibtex main"] 1506814871 "main.aux" "main.bbl" "main" 1506815298
+["bibtex main"] 1508863208 "main.aux" "main.bbl" "main" 1508863209
   "/usr/share/texlive/texmf-dist/bibtex/bst/apacite/apacite.bst" 1374530685 141073 9d7b79dbf9d91133318126032cff8c27 ""
-  "biblioteca/biblioteca_tesis.bib" 1506810195 42604 826f1bc60836cd1979bc8e561ab67b73 ""
-  "main.aux" 1506814872 11367 04feb104b8490523f5bbd2a5cb322b55 ""
+  "biblioteca/biblioteca_tesis.bib" 1508799285 42990 2d6297f4567f5b3326179067aa93e8c5 ""
+  "main.aux" 1508863208 12390 46a5574806ebfa3e8b511de6479e9789 ""
   (generated)
-  "main.blg"
   "main.bbl"
-["xdvipdfmx"] 1506815298 "main.xdv" "main.pdf" "main" 1506815298
-  "main.xdv" 1506814872 137396 31c17c9afb1240af570a21c3e00ba8d5 "xelatex"
+  "main.blg"
+["xdvipdfmx"] 1508863209 "main.xdv" "main.pdf" "main" 1508863209
+  "main.xdv" 1508863208 152492 1e4fc9dc496c07b70c7314102bda7011 "xelatex"
   (generated)
   "main.pdf"
-["xelatex"] 1506814871 "main.tex" "main.xdv" "main" 1506815298
+["xelatex"] 1508863208 "main.tex" "main.xdv" "main" 1508863209
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm" 1136768653 6880 f19b8995b61c334d78fc734065f6b4d4 ""
@@ -98,7 +98,8 @@
   "/usr/share/texlive/texmf-dist/tex/xelatex/xetex-def/xetex.def" 1460062404 21052 2a1a30b53c57c3b04e71c305475a35fc ""
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1495587079 31949 3ae02a131d161fd383f5b89f8ad0930c ""
   "/usr/share/texlive/texmf-var/web2c/xetex/xelatex.fmt" 1500772509 3469071 dab3a4146c21b1cab496bb3250db24f3 ""
-  "estado_de_la_cuestion.tex" 1506794677 16311 d9ec39e1e0ccf5c925d937374c308a75 ""
+  "conclusiones.tex" 1508863203 6366 e41ced912535a81403e7e87539ef9214 ""
+  "estado_de_la_cuestion.tex" 1508765413 16307 638c3b48bb31be00b63c07c755ed1688 ""
   "figuras/Arduino_Uno_-_R3.jpg" 1496690744 243990 c6e58e4d6c34bc7d85bb1a338295c186 ""
   "figuras/Capek_play.jpg" 1495827159 53259 7bb407c91ea0f98e7a255122c5b08cef ""
   "figuras/Open-source-hardware-logo.png" 1484838498 31822 cc0fad6556b87319d30f65126eb07b64 ""
@@ -112,19 +113,19 @@
   "figuras/reprap.jpg" 1487716275 80934 11d155c0cd31df344091a6d5f77cc677 ""
   "figuras/turtle_with_apple.JPG" 1487715681 30928 9125cfe39b9736f046c02958d4134623 ""
   "figuras/utn_logo.jpg" 1460219556 5791 768427d608944e4ebd81b7c1bb304fcc ""
-  "introduccion.tex" 1506690281 4664 883da4c0d6b0c07c90332ded8c45f2cc ""
-  "main.aux" 1506814872 11367 04feb104b8490523f5bbd2a5cb322b55 ""
-  "main.bbl" 1506814871 16629 2fb473b2d47429d3507c42a0a6748cf4 "bibtex main"
-  "main.out" 1506814872 2401 cf7f1f689c2659398d9daba281406cde ""
-  "main.tex" 1506815298 1330 6cd65868e720c83f18297fbf09d1118f ""
-  "main.toc" 1506814872 2904 0e6420359e3759ccfd32d5aff1f3dd3b ""
-  "marco_teorico.tex" 1506790663 28530 f767a3e5b79bb357767007efe81d2ab2 ""
+  "introduccion.tex" 1508764744 4682 0f65224ef3c46f7c14ac864db6b34525 ""
+  "main.aux" 1508863208 12390 46a5574806ebfa3e8b511de6479e9789 ""
+  "main.bbl" 1508863208 18016 876c7bcdc1758dad9e488b02d2dd180b "bibtex main"
+  "main.out" 1508863208 2723 3b0db31fb985d15a56b066cb56617f05 ""
+  "main.tex" 1508805686 1356 998c5ed1c0e569b8625480141ed4d124 ""
+  "main.toc" 1508863208 3276 167335e09f3acf8d2e4869c5f95d41dd ""
+  "marco_teorico.tex" 1508765065 28535 4addaf028e39794419a0f19b6373cff6 ""
   "portada.tex" 1503587437 1131 88cc226f1293e410598fe785fd78a34d ""
-  "proyecto_educativo_tecnologico.tex" 1506794971 17267 480297a571b1c0be25cc5132fb832585 ""
-  "referencia.tex" 1503593488 205 7d2c6cb02c60cc1f7b86a7729023fc44 ""
+  "proyecto_educativo_tecnologico.tex" 1508765938 17279 ae47914f3a46a8c24945746186473f42 ""
+  "referencia.tex" 1508248420 228 4006d2eb15fea86df12b8aa91b208c7c ""
   (generated)
-  "main.xdv"
-  "main.log"
   "main.toc"
+  "main.xdv"
   "main.aux"
   "main.out"
+  "main.log"

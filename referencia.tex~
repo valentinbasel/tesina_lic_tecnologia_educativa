@@ -1,0 +1,10 @@
+% Dedicatoria
+\chapter*{}
+%\pagenumbering{Roman} % para comenzar la numeracion de paginas en numeros romanos
+\begin{flushright}
+Programa, o seras programado.
+
+\texttt{Douglas Rushkoff.}
+
+
+\end{flushright}

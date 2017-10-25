@@ -1,36 +1,40 @@
 \select@language {spanish}
-\contentsline {section}{\numberline {0.1}Introducción}{6}{section.0.1}
-\contentsline {chapter}{\numberline {1}Marco Teórico}{9}{chapter.1}
-\contentsline {section}{\numberline {1.1}Introducción}{9}{section.1.1}
-\contentsline {section}{\numberline {1.2}Construccionismo}{9}{section.1.2}
-\contentsline {section}{\numberline {1.3}Ciencias de la computación}{11}{section.1.3}
-\contentsline {section}{\numberline {1.4}Lenguajes formales}{11}{section.1.4}
-\contentsline {subsection}{\numberline {1.4.1}Python}{12}{subsection.1.4.1}
-\contentsline {section}{\numberline {1.5}Soberanía tecnológica}{13}{section.1.5}
-\contentsline {section}{\numberline {1.6}Software libre}{13}{section.1.6}
-\contentsline {subsection}{\numberline {1.6.1}Código fuente}{14}{subsection.1.6.1}
-\contentsline {section}{\numberline {1.7}Hardware de especificaciones abiertas }{18}{section.1.7}
-\contentsline {subsection}{\numberline {1.7.1}Software libre en la escuela}{20}{subsection.1.7.1}
-\contentsline {section}{\numberline {1.8}Robots}{21}{section.1.8}
-\contentsline {section}{\numberline {1.9}Robótica educativa}{23}{section.1.9}
-\contentsline {chapter}{\numberline {2}Estado de la cuestión}{25}{chapter.2}
-\contentsline {section}{\numberline {2.1}Introducción}{25}{section.2.1}
-\contentsline {section}{\numberline {2.2}Antecedentes}{26}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Lenguaje LOGO}{26}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}ARDUINO\textsuperscript {\texttrademark } y la revolución del hardware libre.}{27}{subsection.2.2.2}
-\contentsline {section}{\numberline {2.3}lenguajes de programación en la enseñanza}{29}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Competencias especificas para el aprendizaje de un lenguaje de programación}{32}{subsection.2.3.1}
-\contentsline {section}{\numberline {2.4}Robótica y la enseñanza de programación}{33}{section.2.4}
-\contentsline {chapter}{\numberline {3}Proyecto de transferencia}{35}{chapter.3}
-\contentsline {section}{\numberline {3.1}Introducción}{35}{section.3.1}
-\contentsline {section}{\numberline {3.2}Justificación}{36}{section.3.2}
-\contentsline {section}{\numberline {3.3}objetivos}{36}{section.3.3}
-\contentsline {section}{\numberline {3.4}licencias}{37}{section.3.4}
-\contentsline {section}{\numberline {3.5}metodologia}{38}{section.3.5}
-\contentsline {section}{\numberline {3.6}Capacitación}{39}{section.3.6}
-\contentsline {section}{\numberline {3.7}duración}{40}{section.3.7}
-\contentsline {section}{\numberline {3.8}gantt}{40}{section.3.8}
-\contentsline {section}{\numberline {3.9}requerimientos para el laboratorio de desarrollo}{44}{section.3.9}
-\contentsline {section}{\numberline {3.10}herramientas}{44}{section.3.10}
-\contentsline {section}{\numberline {3.11}laboratorio informatico}{47}{section.3.11}
-\contentsline {chapter}{Referencias}{48}{Item.30}
+\contentsline {section}{\numberline {0.1}Introducción}{7}{section.0.1}
+\contentsline {chapter}{\numberline {1}Marco Teórico}{10}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introducción}{10}{section.1.1}
+\contentsline {section}{\numberline {1.2}Construccionismo}{11}{section.1.2}
+\contentsline {section}{\numberline {1.3}Ciencias de la computación}{12}{section.1.3}
+\contentsline {section}{\numberline {1.4}Lenguajes formales}{13}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Python}{14}{subsection.1.4.1}
+\contentsline {section}{\numberline {1.5}Soberanía tecnológica}{15}{section.1.5}
+\contentsline {section}{\numberline {1.6}Software libre}{16}{section.1.6}
+\contentsline {subsection}{\numberline {1.6.1}Código fuente}{17}{subsection.1.6.1}
+\contentsline {section}{\numberline {1.7}Hardware de especificaciones abiertas }{21}{section.1.7}
+\contentsline {subsection}{\numberline {1.7.1}Software libre en la escuela}{24}{subsection.1.7.1}
+\contentsline {section}{\numberline {1.8}Robots}{26}{section.1.8}
+\contentsline {section}{\numberline {1.9}Robótica educativa}{27}{section.1.9}
+\contentsline {chapter}{\numberline {2}Estado de la cuestión}{30}{chapter.2}
+\contentsline {section}{\numberline {2.1}Introducción}{30}{section.2.1}
+\contentsline {section}{\numberline {2.2}Antecedentes}{31}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Lenguaje LOGO}{31}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}ARDUINO\textsuperscript {\texttrademark } y la revolución del hardware libre.}{34}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}lenguajes de programación en la enseñanza}{35}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Competencias especificas para el aprendizaje de un lenguaje de programación}{38}{subsection.2.3.1}
+\contentsline {section}{\numberline {2.4}La robótica y la enseñanza de programación}{40}{section.2.4}
+\contentsline {chapter}{\numberline {3}Proyecto de transferencia}{43}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introducción}{43}{section.3.1}
+\contentsline {section}{\numberline {3.2}Justificación}{44}{section.3.2}
+\contentsline {section}{\numberline {3.3}Objetivos}{45}{section.3.3}
+\contentsline {section}{\numberline {3.4}Licencias}{45}{section.3.4}
+\contentsline {section}{\numberline {3.5}Metodologia}{46}{section.3.5}
+\contentsline {section}{\numberline {3.6}Capacitación}{48}{section.3.6}
+\contentsline {section}{\numberline {3.7}Duración}{49}{section.3.7}
+\contentsline {section}{\numberline {3.8}Gantt}{49}{section.3.8}
+\contentsline {section}{\numberline {3.9}Requerimientos para el laboratorio de desarrollo}{53}{section.3.9}
+\contentsline {section}{\numberline {3.10}Herramientas}{54}{section.3.10}
+\contentsline {section}{\numberline {3.11}Laboratorio informatico}{57}{section.3.11}
+\contentsline {chapter}{\numberline {4}Reflexiones finales}{59}{chapter.4}
+\contentsline {section}{\numberline {4.1}Robótica como herramienta construccionista}{60}{section.4.1}
+\contentsline {section}{\numberline {4.2}Programa o seras programado}{61}{section.4.2}
+\contentsline {section}{\numberline {4.3}Lo instrumental también es político}{62}{section.4.3}
+\contentsline {chapter}{Referencias}{63}{section.4.3}
